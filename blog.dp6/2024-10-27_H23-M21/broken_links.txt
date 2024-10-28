@@ -1,0 +1,75 @@
+❌ {
+  página: https://blog.dp6.com.br/followers?source=collection_home_page----6e66739c733f---------------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_followers_page---collection_sidebar-6e66739c733f---------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/?source=collection_followers_page----6e66739c733f---------------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_home_page---collection_sidebar-6e66739c733f---------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/?source=collection_home_page----6e66739c733f---------------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_home_page---collection_sidebar-6e66739c733f---------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/about?source=collection_home_page----6e66739c733f---------------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_about---collection_sidebar-6e66739c733f---------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/black-friday-2024-8-lições-cruciais-da-edição-de-2023-para-aumentar-suas-vendas-online-3947aeab6bde?source=collection_home_page----6e66739c733f-----0----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----3947aeab6bde--------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_home_page----6e66739c733f-----1----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----5c9780d4ef57--------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_home_page----6e66739c733f-----2----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----c12abee17a29--------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_home_page----6e66739c733f-----3----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----30fa87913b9a--------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/gtm-server-side-otimizando-a-experiência-do-usuário-na-black-friday-com-uma-coleta-eficiente-b496bd60c445?source=collection_home_page----6e66739c733f-----4----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----b496bd60c445--------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/fórum-ecommerce-brasil-2024-principais-insights-e-takeaways-a-experiência-do-usuário-como-pilar-1cd92f54d37e?source=collection_home_page----6e66739c733f-----5----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----1cd92f54d37e--------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/google-reverte-decisão-sobre-cookies-o-que-isso-significa-para-seu-negócio-b1d919ce5f50?source=collection_home_page----6e66739c733f-----6----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----b1d919ce5f50--------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/série-visualização-de-dados-3-inclusão-na-visualização-de-dados-afac26ca2db9?source=collection_home_page----6e66739c733f-----7----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----afac26ca2db9--------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/inteligência-artificial-potencializando-a-produtividade-no-marketing-5a3a20a24b12?source=collection_home_page----6e66739c733f-----8----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----5a3a20a24b12--------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/série-visualização-de-dados-2-como-escolher-a-melhor-visualização-9cddeec726eb?source=collection_home_page----6e66739c733f-----9----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----9cddeec726eb--------------------------------,
+  erro: Código 404 (inacessível)
+}
+❌ {
+  página: https://blog.dp6.com.br/about?source=collection_about----6e66739c733f---------------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_about---collection_sidebar-6e66739c733f---------------------------------,
+  erro: Código 404 (inacessível)
+}

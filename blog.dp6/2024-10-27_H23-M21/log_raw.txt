@@ -1,0 +1,848 @@
+[2024-10-27 23:21:15] 🔎 Página atual: https://blog.dp6.com.br/followers?source=collection_home_page----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:21:17] [OK] Acessando: https://blog.dp6.com.br/followers?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:21:20] [OK] Link OK: https://blog.dp6.com.br/?source=collection_followers_page----6e66739c733f---------------------------------
+❌ [2024-10-27 23:21:21] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/followers?source=collection_home_page----6e66739c733f---------------------------------
+❌ [2024-10-27 23:21:21] [Erro] ❌ {
+  página: https://blog.dp6.com.br/followers?source=collection_home_page----6e66739c733f---------------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_followers_page---collection_sidebar-6e66739c733f---------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:21:21] 🔎 Página atual: https://blog.dp6.com.br/?source=collection_followers_page----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:21:23] [OK] Acessando: https://blog.dp6.com.br/?source=collection_followers_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:21:26] [OK] Link OK: https://blog.dp6.com.br/?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:21:28] [OK] Link OK: https://blog.dp6.com.br/?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:21:30] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:21:33] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:21:35] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:21:38] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:21:41] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:21:43] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:21:45] [OK] Link OK: https://blog.dp6.com.br/black-friday-2024-8-lições-cruciais-da-edição-de-2023-para-aumentar-suas-vendas-online-3947aeab6bde?source=collection_home_page----6e66739c733f-----0----------------------------
+🟢 [2024-10-27 23:21:47] [OK] Link OK: https://blog.dp6.com.br/black-friday-2024-8-lições-cruciais-da-edição-de-2023-para-aumentar-suas-vendas-online-3947aeab6bde?source=collection_home_page----6e66739c733f-----0----------------------------
+🟢 [2024-10-27 23:21:50] [OK] Link OK: https://blog.dp6.com.br/black-friday-2024-8-lições-cruciais-da-edição-de-2023-para-aumentar-suas-vendas-online-3947aeab6bde?source=collection_home_page----6e66739c733f-----0----------------------------
+🟢 [2024-10-27 23:21:51] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_home_page----6e66739c733f-----1----------------------------
+🟢 [2024-10-27 23:21:53] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_home_page----6e66739c733f-----1----------------------------
+🟢 [2024-10-27 23:21:57] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_home_page----6e66739c733f-----1----------------------------
+🟢 [2024-10-27 23:21:59] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_home_page----6e66739c733f-----2----------------------------
+🟢 [2024-10-27 23:22:02] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_home_page----6e66739c733f-----2----------------------------
+🟢 [2024-10-27 23:22:04] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_home_page----6e66739c733f-----2----------------------------
+🟢 [2024-10-27 23:22:06] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_home_page----6e66739c733f-----3----------------------------
+🟢 [2024-10-27 23:22:08] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_home_page----6e66739c733f-----3----------------------------
+🟢 [2024-10-27 23:22:10] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_home_page----6e66739c733f-----3----------------------------
+🟢 [2024-10-27 23:22:12] [OK] Link OK: https://blog.dp6.com.br/gtm-server-side-otimizando-a-experiência-do-usuário-na-black-friday-com-uma-coleta-eficiente-b496bd60c445?source=collection_home_page----6e66739c733f-----4----------------------------
+🟢 [2024-10-27 23:22:15] [OK] Link OK: https://blog.dp6.com.br/gtm-server-side-otimizando-a-experiência-do-usuário-na-black-friday-com-uma-coleta-eficiente-b496bd60c445?source=collection_home_page----6e66739c733f-----4----------------------------
+🟢 [2024-10-27 23:22:18] [OK] Link OK: https://blog.dp6.com.br/gtm-server-side-otimizando-a-experiência-do-usuário-na-black-friday-com-uma-coleta-eficiente-b496bd60c445?source=collection_home_page----6e66739c733f-----4----------------------------
+🟢 [2024-10-27 23:22:20] [OK] Link OK: https://blog.dp6.com.br/fórum-ecommerce-brasil-2024-principais-insights-e-takeaways-a-experiência-do-usuário-como-pilar-1cd92f54d37e?source=collection_home_page----6e66739c733f-----5----------------------------
+🟢 [2024-10-27 23:22:22] [OK] Link OK: https://blog.dp6.com.br/fórum-ecommerce-brasil-2024-principais-insights-e-takeaways-a-experiência-do-usuário-como-pilar-1cd92f54d37e?source=collection_home_page----6e66739c733f-----5----------------------------
+🟢 [2024-10-27 23:22:24] [OK] Link OK: https://blog.dp6.com.br/fórum-ecommerce-brasil-2024-principais-insights-e-takeaways-a-experiência-do-usuário-como-pilar-1cd92f54d37e?source=collection_home_page----6e66739c733f-----5----------------------------
+🟢 [2024-10-27 23:22:26] [OK] Link OK: https://blog.dp6.com.br/google-reverte-decisão-sobre-cookies-o-que-isso-significa-para-seu-negócio-b1d919ce5f50?source=collection_home_page----6e66739c733f-----6----------------------------
+🟢 [2024-10-27 23:22:29] [OK] Link OK: https://blog.dp6.com.br/google-reverte-decisão-sobre-cookies-o-que-isso-significa-para-seu-negócio-b1d919ce5f50?source=collection_home_page----6e66739c733f-----6----------------------------
+🟢 [2024-10-27 23:22:31] [OK] Link OK: https://blog.dp6.com.br/google-reverte-decisão-sobre-cookies-o-que-isso-significa-para-seu-negócio-b1d919ce5f50?source=collection_home_page----6e66739c733f-----6----------------------------
+🟢 [2024-10-27 23:22:33] [OK] Link OK: https://blog.dp6.com.br/série-visualização-de-dados-3-inclusão-na-visualização-de-dados-afac26ca2db9?source=collection_home_page----6e66739c733f-----7----------------------------
+🟢 [2024-10-27 23:22:35] [OK] Link OK: https://blog.dp6.com.br/série-visualização-de-dados-3-inclusão-na-visualização-de-dados-afac26ca2db9?source=collection_home_page----6e66739c733f-----7----------------------------
+🟢 [2024-10-27 23:22:38] [OK] Link OK: https://blog.dp6.com.br/série-visualização-de-dados-3-inclusão-na-visualização-de-dados-afac26ca2db9?source=collection_home_page----6e66739c733f-----7----------------------------
+🟢 [2024-10-27 23:22:40] [OK] Link OK: https://blog.dp6.com.br/inteligência-artificial-potencializando-a-produtividade-no-marketing-5a3a20a24b12?source=collection_home_page----6e66739c733f-----8----------------------------
+🟢 [2024-10-27 23:22:42] [OK] Link OK: https://blog.dp6.com.br/inteligência-artificial-potencializando-a-produtividade-no-marketing-5a3a20a24b12?source=collection_home_page----6e66739c733f-----8----------------------------
+🟢 [2024-10-27 23:22:44] [OK] Link OK: https://blog.dp6.com.br/inteligência-artificial-potencializando-a-produtividade-no-marketing-5a3a20a24b12?source=collection_home_page----6e66739c733f-----8----------------------------
+🟢 [2024-10-27 23:22:46] [OK] Link OK: https://blog.dp6.com.br/série-visualização-de-dados-2-como-escolher-a-melhor-visualização-9cddeec726eb?source=collection_home_page----6e66739c733f-----9----------------------------
+🟢 [2024-10-27 23:22:48] [OK] Link OK: https://blog.dp6.com.br/série-visualização-de-dados-2-como-escolher-a-melhor-visualização-9cddeec726eb?source=collection_home_page----6e66739c733f-----9----------------------------
+🟢 [2024-10-27 23:22:51] [OK] Link OK: https://blog.dp6.com.br/série-visualização-de-dados-2-como-escolher-a-melhor-visualização-9cddeec726eb?source=collection_home_page----6e66739c733f-----9----------------------------
+❌ [2024-10-27 23:22:53] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/?source=collection_followers_page----6e66739c733f---------------------------------
+❌ [2024-10-27 23:22:53] [Erro] ❌ {
+  página: https://blog.dp6.com.br/?source=collection_followers_page----6e66739c733f---------------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_home_page---collection_sidebar-6e66739c733f---------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:22:53] 🔎 Página atual: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_followers_page---collection_sidebar-6e66739c733f---------------------------------
+==================================================
+❌ [2024-10-27 23:22:54] [Erro] Problema na página https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_followers_page---collection_sidebar-6e66739c733f--------------------------------- - Código: 404
+[2024-10-27 23:22:54] 🔎 Página atual: https://blog.dp6.com.br/?source=collection_home_page----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:22:57] [OK] Acessando: https://blog.dp6.com.br/?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:22:58] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:23:01] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:23:03] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:23:05] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:23:07] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:23:09] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:23:11] [OK] Link OK: https://blog.dp6.com.br/black-friday-2024-8-lições-cruciais-da-edição-de-2023-para-aumentar-suas-vendas-online-3947aeab6bde?source=collection_home_page----6e66739c733f-----0----------------------------
+🟢 [2024-10-27 23:23:13] [OK] Link OK: https://blog.dp6.com.br/black-friday-2024-8-lições-cruciais-da-edição-de-2023-para-aumentar-suas-vendas-online-3947aeab6bde?source=collection_home_page----6e66739c733f-----0----------------------------
+🟢 [2024-10-27 23:23:15] [OK] Link OK: https://blog.dp6.com.br/black-friday-2024-8-lições-cruciais-da-edição-de-2023-para-aumentar-suas-vendas-online-3947aeab6bde?source=collection_home_page----6e66739c733f-----0----------------------------
+🟢 [2024-10-27 23:23:17] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_home_page----6e66739c733f-----1----------------------------
+🟢 [2024-10-27 23:23:19] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_home_page----6e66739c733f-----1----------------------------
+🟢 [2024-10-27 23:23:21] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_home_page----6e66739c733f-----1----------------------------
+🟢 [2024-10-27 23:23:23] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_home_page----6e66739c733f-----2----------------------------
+🟢 [2024-10-27 23:23:25] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_home_page----6e66739c733f-----2----------------------------
+🟢 [2024-10-27 23:23:27] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_home_page----6e66739c733f-----2----------------------------
+🟢 [2024-10-27 23:23:29] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_home_page----6e66739c733f-----3----------------------------
+🟢 [2024-10-27 23:23:31] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_home_page----6e66739c733f-----3----------------------------
+🟢 [2024-10-27 23:23:33] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_home_page----6e66739c733f-----3----------------------------
+🟢 [2024-10-27 23:23:36] [OK] Link OK: https://blog.dp6.com.br/gtm-server-side-otimizando-a-experiência-do-usuário-na-black-friday-com-uma-coleta-eficiente-b496bd60c445?source=collection_home_page----6e66739c733f-----4----------------------------
+🟢 [2024-10-27 23:23:38] [OK] Link OK: https://blog.dp6.com.br/gtm-server-side-otimizando-a-experiência-do-usuário-na-black-friday-com-uma-coleta-eficiente-b496bd60c445?source=collection_home_page----6e66739c733f-----4----------------------------
+🟢 [2024-10-27 23:23:40] [OK] Link OK: https://blog.dp6.com.br/gtm-server-side-otimizando-a-experiência-do-usuário-na-black-friday-com-uma-coleta-eficiente-b496bd60c445?source=collection_home_page----6e66739c733f-----4----------------------------
+🟢 [2024-10-27 23:23:42] [OK] Link OK: https://blog.dp6.com.br/fórum-ecommerce-brasil-2024-principais-insights-e-takeaways-a-experiência-do-usuário-como-pilar-1cd92f54d37e?source=collection_home_page----6e66739c733f-----5----------------------------
+🟢 [2024-10-27 23:23:44] [OK] Link OK: https://blog.dp6.com.br/fórum-ecommerce-brasil-2024-principais-insights-e-takeaways-a-experiência-do-usuário-como-pilar-1cd92f54d37e?source=collection_home_page----6e66739c733f-----5----------------------------
+🟢 [2024-10-27 23:23:46] [OK] Link OK: https://blog.dp6.com.br/fórum-ecommerce-brasil-2024-principais-insights-e-takeaways-a-experiência-do-usuário-como-pilar-1cd92f54d37e?source=collection_home_page----6e66739c733f-----5----------------------------
+🟢 [2024-10-27 23:23:48] [OK] Link OK: https://blog.dp6.com.br/google-reverte-decisão-sobre-cookies-o-que-isso-significa-para-seu-negócio-b1d919ce5f50?source=collection_home_page----6e66739c733f-----6----------------------------
+🟢 [2024-10-27 23:23:50] [OK] Link OK: https://blog.dp6.com.br/google-reverte-decisão-sobre-cookies-o-que-isso-significa-para-seu-negócio-b1d919ce5f50?source=collection_home_page----6e66739c733f-----6----------------------------
+🟢 [2024-10-27 23:23:52] [OK] Link OK: https://blog.dp6.com.br/google-reverte-decisão-sobre-cookies-o-que-isso-significa-para-seu-negócio-b1d919ce5f50?source=collection_home_page----6e66739c733f-----6----------------------------
+🟢 [2024-10-27 23:23:54] [OK] Link OK: https://blog.dp6.com.br/série-visualização-de-dados-3-inclusão-na-visualização-de-dados-afac26ca2db9?source=collection_home_page----6e66739c733f-----7----------------------------
+🟢 [2024-10-27 23:23:57] [OK] Link OK: https://blog.dp6.com.br/série-visualização-de-dados-3-inclusão-na-visualização-de-dados-afac26ca2db9?source=collection_home_page----6e66739c733f-----7----------------------------
+🟢 [2024-10-27 23:23:59] [OK] Link OK: https://blog.dp6.com.br/série-visualização-de-dados-3-inclusão-na-visualização-de-dados-afac26ca2db9?source=collection_home_page----6e66739c733f-----7----------------------------
+🟢 [2024-10-27 23:24:01] [OK] Link OK: https://blog.dp6.com.br/inteligência-artificial-potencializando-a-produtividade-no-marketing-5a3a20a24b12?source=collection_home_page----6e66739c733f-----8----------------------------
+🟢 [2024-10-27 23:24:03] [OK] Link OK: https://blog.dp6.com.br/inteligência-artificial-potencializando-a-produtividade-no-marketing-5a3a20a24b12?source=collection_home_page----6e66739c733f-----8----------------------------
+🟢 [2024-10-27 23:24:05] [OK] Link OK: https://blog.dp6.com.br/inteligência-artificial-potencializando-a-produtividade-no-marketing-5a3a20a24b12?source=collection_home_page----6e66739c733f-----8----------------------------
+🟢 [2024-10-27 23:24:08] [OK] Link OK: https://blog.dp6.com.br/série-visualização-de-dados-2-como-escolher-a-melhor-visualização-9cddeec726eb?source=collection_home_page----6e66739c733f-----9----------------------------
+🟢 [2024-10-27 23:24:10] [OK] Link OK: https://blog.dp6.com.br/série-visualização-de-dados-2-como-escolher-a-melhor-visualização-9cddeec726eb?source=collection_home_page----6e66739c733f-----9----------------------------
+🟢 [2024-10-27 23:24:12] [OK] Link OK: https://blog.dp6.com.br/série-visualização-de-dados-2-como-escolher-a-melhor-visualização-9cddeec726eb?source=collection_home_page----6e66739c733f-----9----------------------------
+❌ [2024-10-27 23:24:13] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/?source=collection_home_page----6e66739c733f---------------------------------
+❌ [2024-10-27 23:24:13] [Erro] ❌ {
+  página: https://blog.dp6.com.br/?source=collection_home_page----6e66739c733f---------------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_home_page---collection_sidebar-6e66739c733f---------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:24:14] 🔎 Página atual: https://blog.dp6.com.br/about?source=collection_home_page----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:24:15] [OK] Acessando: https://blog.dp6.com.br/about?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:24:18] [OK] Link OK: https://blog.dp6.com.br/?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:24:20] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:24:22] [OK] Link OK: https://blog.dp6.com.br/?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:24:24] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:24:26] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:24:28] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:24:30] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:24:32] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:24:34] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:24:36] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_about----6e66739c733f---------------------------------
+❌ [2024-10-27 23:24:38] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/about?source=collection_home_page----6e66739c733f---------------------------------
+❌ [2024-10-27 23:24:38] [Erro] ❌ {
+  página: https://blog.dp6.com.br/about?source=collection_home_page----6e66739c733f---------------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_about---collection_sidebar-6e66739c733f---------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:24:38] 🔎 Página atual: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_home_page----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:24:40] [OK] Acessando: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:24:42] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:24:44] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:24:46] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:24:48] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:24:51] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:24:53] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:24:55] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:24:57] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:24:59] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:25:02] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_tagged----6e66739c733f--digital_marketing---0----------------------------
+🟢 [2024-10-27 23:25:04] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_tagged----6e66739c733f--digital_marketing---0----------------------------
+🟢 [2024-10-27 23:25:06] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_tagged----6e66739c733f--digital_marketing---0----------------------------
+🟢 [2024-10-27 23:25:08] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_tagged----6e66739c733f--digital_marketing---1----------------------------
+🟢 [2024-10-27 23:25:10] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_tagged----6e66739c733f--digital_marketing---1----------------------------
+🟢 [2024-10-27 23:25:12] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_tagged----6e66739c733f--digital_marketing---1----------------------------
+🟢 [2024-10-27 23:25:14] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_tagged----6e66739c733f--digital_marketing---2----------------------------
+🟢 [2024-10-27 23:25:17] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_tagged----6e66739c733f--digital_marketing---2----------------------------
+🟢 [2024-10-27 23:25:18] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_tagged----6e66739c733f--digital_marketing---2----------------------------
+🟢 [2024-10-27 23:25:21] [OK] Link OK: https://blog.dp6.com.br/google-marketing-live-2024-c6fc266bf2f5?source=collection_tagged----6e66739c733f--digital_marketing---3----------------------------
+🟢 [2024-10-27 23:25:23] [OK] Link OK: https://blog.dp6.com.br/google-marketing-live-2024-c6fc266bf2f5?source=collection_tagged----6e66739c733f--digital_marketing---3----------------------------
+🟢 [2024-10-27 23:25:25] [OK] Link OK: https://blog.dp6.com.br/google-marketing-live-2024-c6fc266bf2f5?source=collection_tagged----6e66739c733f--digital_marketing---3----------------------------
+🟢 [2024-10-27 23:25:27] [OK] Link OK: https://blog.dp6.com.br/agile-marketing-revolucionando-a-estratégia-de-marketing-digital-na-era-da-informação-d9fd61fe80f4?source=collection_tagged----6e66739c733f--digital_marketing---4----------------------------
+🟢 [2024-10-27 23:25:28] [OK] Link OK: https://blog.dp6.com.br/agile-marketing-revolucionando-a-estratégia-de-marketing-digital-na-era-da-informação-d9fd61fe80f4?source=collection_tagged----6e66739c733f--digital_marketing---4----------------------------
+🟢 [2024-10-27 23:25:30] [OK] Link OK: https://blog.dp6.com.br/agile-marketing-revolucionando-a-estratégia-de-marketing-digital-na-era-da-informação-d9fd61fe80f4?source=collection_tagged----6e66739c733f--digital_marketing---4----------------------------
+🟢 [2024-10-27 23:25:32] [OK] Link OK: https://blog.dp6.com.br/tracking-protection-recurso-do-chrome-e-o-fim-dos-cookies-2c256ce3f776?source=collection_tagged----6e66739c733f--digital_marketing---5----------------------------
+🟢 [2024-10-27 23:25:34] [OK] Link OK: https://blog.dp6.com.br/tracking-protection-recurso-do-chrome-e-o-fim-dos-cookies-2c256ce3f776?source=collection_tagged----6e66739c733f--digital_marketing---5----------------------------
+🟢 [2024-10-27 23:25:36] [OK] Link OK: https://blog.dp6.com.br/tracking-protection-recurso-do-chrome-e-o-fim-dos-cookies-2c256ce3f776?source=collection_tagged----6e66739c733f--digital_marketing---5----------------------------
+🟢 [2024-10-27 23:25:38] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--digital_marketing---6----------------------------
+🟢 [2024-10-27 23:25:40] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--digital_marketing---6----------------------------
+🟢 [2024-10-27 23:25:43] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--digital_marketing---6----------------------------
+🟢 [2024-10-27 23:25:45] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--digital_marketing---7----------------------------
+🟢 [2024-10-27 23:25:47] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--digital_marketing---7----------------------------
+🟢 [2024-10-27 23:25:49] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--digital_marketing---7----------------------------
+🟢 [2024-10-27 23:25:51] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-do-blog-dp6-em-2021-b808823e489b?source=collection_tagged----6e66739c733f--digital_marketing---8----------------------------
+🟢 [2024-10-27 23:25:53] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-do-blog-dp6-em-2021-b808823e489b?source=collection_tagged----6e66739c733f--digital_marketing---8----------------------------
+🟢 [2024-10-27 23:25:55] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-do-blog-dp6-em-2021-b808823e489b?source=collection_tagged----6e66739c733f--digital_marketing---8----------------------------
+🟢 [2024-10-27 23:25:58] [OK] Link OK: https://blog.dp6.com.br/modelo-peso-os-benefícios-de-uma-estratégia-de-mídia-unificada-3a8fa90975f2?source=collection_tagged----6e66739c733f--digital_marketing---9----------------------------
+🟢 [2024-10-27 23:26:00] [OK] Link OK: https://blog.dp6.com.br/modelo-peso-os-benefícios-de-uma-estratégia-de-mídia-unificada-3a8fa90975f2?source=collection_tagged----6e66739c733f--digital_marketing---9----------------------------
+🟢 [2024-10-27 23:26:02] [OK] Link OK: https://blog.dp6.com.br/modelo-peso-os-benefícios-de-uma-estratégia-de-mídia-unificada-3a8fa90975f2?source=collection_tagged----6e66739c733f--digital_marketing---9----------------------------
+🟢 [2024-10-27 23:26:04] [OK] Link OK: https://blog.dp6.com.br/tagged/pressinquiries@medium.com?source=collection_tagged---collection_sidebar-6e66739c733f--digital_marketing-------------------------------
+[2024-10-27 23:26:04] 🔎 Página atual: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_home_page----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:26:06] [OK] Acessando: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:26:09] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:26:11] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:26:14] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:26:15] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:26:17] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:26:21] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:26:23] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:26:25] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:26:27] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:26:29] [OK] Link OK: https://blog.dp6.com.br/é-o-fim-do-google-optimize-e-agora-ede6fdcfd01d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---0----------------------------
+🟢 [2024-10-27 23:26:33] [OK] Link OK: https://blog.dp6.com.br/é-o-fim-do-google-optimize-e-agora-ede6fdcfd01d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---0----------------------------
+🟢 [2024-10-27 23:26:35] [OK] Link OK: https://blog.dp6.com.br/é-o-fim-do-google-optimize-e-agora-ede6fdcfd01d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---0----------------------------
+🟢 [2024-10-27 23:26:38] [OK] Link OK: https://blog.dp6.com.br/fim-do-optimize-e-a-migração-para-outras-ferramentas-as-maiores-dúvidas-8deda662e8ae?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---1----------------------------
+🟢 [2024-10-27 23:26:40] [OK] Link OK: https://blog.dp6.com.br/fim-do-optimize-e-a-migração-para-outras-ferramentas-as-maiores-dúvidas-8deda662e8ae?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---1----------------------------
+🟢 [2024-10-27 23:26:42] [OK] Link OK: https://blog.dp6.com.br/fim-do-optimize-e-a-migração-para-outras-ferramentas-as-maiores-dúvidas-8deda662e8ae?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---1----------------------------
+🟢 [2024-10-27 23:26:44] [OK] Link OK: https://blog.dp6.com.br/implementação-de-testes-como-prevenir-e-solucionar-problemas-62ed6b3af8f4?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---2----------------------------
+🟢 [2024-10-27 23:26:46] [OK] Link OK: https://blog.dp6.com.br/implementação-de-testes-como-prevenir-e-solucionar-problemas-62ed6b3af8f4?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---2----------------------------
+🟢 [2024-10-27 23:26:48] [OK] Link OK: https://blog.dp6.com.br/implementação-de-testes-como-prevenir-e-solucionar-problemas-62ed6b3af8f4?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---2----------------------------
+🟢 [2024-10-27 23:26:50] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-como-integrar-minha-ferramenta-de-cro-com-o-google-analytics-f8c2ccd49b30?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---3----------------------------
+🟢 [2024-10-27 23:26:53] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-como-integrar-minha-ferramenta-de-cro-com-o-google-analytics-f8c2ccd49b30?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---3----------------------------
+🟢 [2024-10-27 23:26:55] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-como-integrar-minha-ferramenta-de-cro-com-o-google-analytics-f8c2ccd49b30?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---3----------------------------
+🟢 [2024-10-27 23:26:57] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-passos-essenciais-para-implementação-5ccf0c9672b5?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---4----------------------------
+🟢 [2024-10-27 23:26:59] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-passos-essenciais-para-implementação-5ccf0c9672b5?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---4----------------------------
+🟢 [2024-10-27 23:27:01] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-passos-essenciais-para-implementação-5ccf0c9672b5?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---4----------------------------
+🟢 [2024-10-27 23:27:03] [OK] Link OK: https://blog.dp6.com.br/maximizando-resultados-quando-utilizar-uma-ferramenta-de-experimentação-d4867c901c3a?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---5----------------------------
+🟢 [2024-10-27 23:27:05] [OK] Link OK: https://blog.dp6.com.br/maximizando-resultados-quando-utilizar-uma-ferramenta-de-experimentação-d4867c901c3a?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---5----------------------------
+🟢 [2024-10-27 23:27:08] [OK] Link OK: https://blog.dp6.com.br/maximizando-resultados-quando-utilizar-uma-ferramenta-de-experimentação-d4867c901c3a?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---5----------------------------
+🟢 [2024-10-27 23:27:10] [OK] Link OK: https://blog.dp6.com.br/custo-de-oportunidade-o-valor-intrínseco-na-cultura-de-teste-90f1f682ba8d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---6----------------------------
+🟢 [2024-10-27 23:27:12] [OK] Link OK: https://blog.dp6.com.br/custo-de-oportunidade-o-valor-intrínseco-na-cultura-de-teste-90f1f682ba8d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---6----------------------------
+🟢 [2024-10-27 23:27:14] [OK] Link OK: https://blog.dp6.com.br/custo-de-oportunidade-o-valor-intrínseco-na-cultura-de-teste-90f1f682ba8d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---6----------------------------
+🟢 [2024-10-27 23:27:16] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-qual-o-melhor-tipo-de-teste-para-a-necessidade-do-seu-negócio-72e4d11603a8?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---7----------------------------
+🟢 [2024-10-27 23:27:18] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-qual-o-melhor-tipo-de-teste-para-a-necessidade-do-seu-negócio-72e4d11603a8?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---7----------------------------
+🟢 [2024-10-27 23:27:20] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-qual-o-melhor-tipo-de-teste-para-a-necessidade-do-seu-negócio-72e4d11603a8?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---7----------------------------
+🟢 [2024-10-27 23:27:22] [OK] Link OK: https://blog.dp6.com.br/times-de-experimentação-qual-a-melhor-estrutura-para-sua-empresa-e6b0995f1185?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---8----------------------------
+🟢 [2024-10-27 23:27:24] [OK] Link OK: https://blog.dp6.com.br/times-de-experimentação-qual-a-melhor-estrutura-para-sua-empresa-e6b0995f1185?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---8----------------------------
+🟢 [2024-10-27 23:27:26] [OK] Link OK: https://blog.dp6.com.br/times-de-experimentação-qual-a-melhor-estrutura-para-sua-empresa-e6b0995f1185?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---8----------------------------
+🟢 [2024-10-27 23:27:28] [OK] Link OK: https://blog.dp6.com.br/a-importância-da-cultura-de-testes-na-otimização-da-jornada-do-consumidor-ba2621ca8e60?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---9----------------------------
+🟢 [2024-10-27 23:27:30] [OK] Link OK: https://blog.dp6.com.br/a-importância-da-cultura-de-testes-na-otimização-da-jornada-do-consumidor-ba2621ca8e60?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---9----------------------------
+🟢 [2024-10-27 23:27:32] [OK] Link OK: https://blog.dp6.com.br/a-importância-da-cultura-de-testes-na-otimização-da-jornada-do-consumidor-ba2621ca8e60?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---9----------------------------
+🟢 [2024-10-27 23:27:33] [OK] Link OK: https://blog.dp6.com.br/tagged/pressinquiries@medium.com?source=collection_tagged---collection_sidebar-6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+[2024-10-27 23:27:33] 🔎 Página atual: https://blog.dp6.com.br/tagged/data-engineer?source=collection_home_page----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:27:36] [OK] Acessando: https://blog.dp6.com.br/tagged/data-engineer?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:27:38] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:27:39] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:27:42] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:27:43] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:27:46] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:27:48] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:27:50] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:27:52] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:27:54] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:27:56] [OK] Link OK: https://blog.dp6.com.br/docker-e-engenharia-de-dados-988d8f14de95?source=collection_tagged----6e66739c733f--data_engineer---0----------------------------
+🟢 [2024-10-27 23:27:59] [OK] Link OK: https://blog.dp6.com.br/docker-e-engenharia-de-dados-988d8f14de95?source=collection_tagged----6e66739c733f--data_engineer---0----------------------------
+🟢 [2024-10-27 23:28:01] [OK] Link OK: https://blog.dp6.com.br/docker-e-engenharia-de-dados-988d8f14de95?source=collection_tagged----6e66739c733f--data_engineer---0----------------------------
+🟢 [2024-10-27 23:28:03] [OK] Link OK: https://blog.dp6.com.br/já-imaginou-o-marketing-digital-sem-séries-temporais-f748c1392dea?source=collection_tagged----6e66739c733f--data_engineer---1----------------------------
+🟢 [2024-10-27 23:28:05] [OK] Link OK: https://blog.dp6.com.br/já-imaginou-o-marketing-digital-sem-séries-temporais-f748c1392dea?source=collection_tagged----6e66739c733f--data_engineer---1----------------------------
+🟢 [2024-10-27 23:28:07] [OK] Link OK: https://blog.dp6.com.br/já-imaginou-o-marketing-digital-sem-séries-temporais-f748c1392dea?source=collection_tagged----6e66739c733f--data_engineer---1----------------------------
+🟢 [2024-10-27 23:28:09] [OK] Link OK: https://blog.dp6.com.br/regex-o-guia-essencial-das-expressões-regulares-2fc1df38a481?source=collection_tagged----6e66739c733f--data_engineer---2----------------------------
+🟢 [2024-10-27 23:28:12] [OK] Link OK: https://blog.dp6.com.br/regex-o-guia-essencial-das-expressões-regulares-2fc1df38a481?source=collection_tagged----6e66739c733f--data_engineer---2----------------------------
+🟢 [2024-10-27 23:28:14] [OK] Link OK: https://blog.dp6.com.br/regex-o-guia-essencial-das-expressões-regulares-2fc1df38a481?source=collection_tagged----6e66739c733f--data_engineer---2----------------------------
+🟢 [2024-10-27 23:28:16] [OK] Link OK: https://blog.dp6.com.br/performance-web-e-ux-9250ee9c1057?source=collection_tagged----6e66739c733f--data_engineer---3----------------------------
+🟢 [2024-10-27 23:28:17] [OK] Link OK: https://blog.dp6.com.br/performance-web-e-ux-9250ee9c1057?source=collection_tagged----6e66739c733f--data_engineer---3----------------------------
+🟢 [2024-10-27 23:28:19] [OK] Link OK: https://blog.dp6.com.br/performance-web-e-ux-9250ee9c1057?source=collection_tagged----6e66739c733f--data_engineer---3----------------------------
+🟢 [2024-10-27 23:28:22] [OK] Link OK: https://blog.dp6.com.br/tudo-o-que-você-precisa-saber-sobre-a-profissão-de-engenharia-de-dados-data-engineer-2c0e73c333cb?source=collection_tagged----6e66739c733f--data_engineer---4----------------------------
+🟢 [2024-10-27 23:28:24] [OK] Link OK: https://blog.dp6.com.br/tudo-o-que-você-precisa-saber-sobre-a-profissão-de-engenharia-de-dados-data-engineer-2c0e73c333cb?source=collection_tagged----6e66739c733f--data_engineer---4----------------------------
+🟢 [2024-10-27 23:28:25] [OK] Link OK: https://blog.dp6.com.br/tudo-o-que-você-precisa-saber-sobre-a-profissão-de-engenharia-de-dados-data-engineer-2c0e73c333cb?source=collection_tagged----6e66739c733f--data_engineer---4----------------------------
+🟢 [2024-10-27 23:28:27] [OK] Link OK: https://blog.dp6.com.br/valide-google-analytics-como-um-expert-com-o-analytics-watcher-5e0def916543?source=collection_tagged----6e66739c733f--data_engineer---5----------------------------
+🟢 [2024-10-27 23:28:29] [OK] Link OK: https://blog.dp6.com.br/valide-google-analytics-como-um-expert-com-o-analytics-watcher-5e0def916543?source=collection_tagged----6e66739c733f--data_engineer---5----------------------------
+🟢 [2024-10-27 23:28:31] [OK] Link OK: https://blog.dp6.com.br/valide-google-analytics-como-um-expert-com-o-analytics-watcher-5e0def916543?source=collection_tagged----6e66739c733f--data_engineer---5----------------------------
+🟢 [2024-10-27 23:28:33] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-marketing-data-lake-data-warehouse-data-lakehouse-o-que-preciso-saber-71d5fa2dcc5c?source=collection_tagged----6e66739c733f--data_engineer---6----------------------------
+🟢 [2024-10-27 23:28:35] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-marketing-data-lake-data-warehouse-data-lakehouse-o-que-preciso-saber-71d5fa2dcc5c?source=collection_tagged----6e66739c733f--data_engineer---6----------------------------
+🟢 [2024-10-27 23:28:37] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-marketing-data-lake-data-warehouse-data-lakehouse-o-que-preciso-saber-71d5fa2dcc5c?source=collection_tagged----6e66739c733f--data_engineer---6----------------------------
+🟢 [2024-10-27 23:28:39] [OK] Link OK: https://blog.dp6.com.br/gestão-e-integração-de-dados-seu-negócio-sabe-o-que-é-necessário-para-ter-uma-visão-unificada-f0e458814c1e?source=collection_tagged----6e66739c733f--data_engineer---7----------------------------
+🟢 [2024-10-27 23:28:41] [OK] Link OK: https://blog.dp6.com.br/gestão-e-integração-de-dados-seu-negócio-sabe-o-que-é-necessário-para-ter-uma-visão-unificada-f0e458814c1e?source=collection_tagged----6e66739c733f--data_engineer---7----------------------------
+🟢 [2024-10-27 23:28:43] [OK] Link OK: https://blog.dp6.com.br/gestão-e-integração-de-dados-seu-negócio-sabe-o-que-é-necessário-para-ter-uma-visão-unificada-f0e458814c1e?source=collection_tagged----6e66739c733f--data_engineer---7----------------------------
+🟢 [2024-10-27 23:28:45] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-martech-dataquality-série-engenharia-de-dados-parte-ii-1bfa15f26a70?source=collection_tagged----6e66739c733f--data_engineer---8----------------------------
+🟢 [2024-10-27 23:28:47] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-martech-dataquality-série-engenharia-de-dados-parte-ii-1bfa15f26a70?source=collection_tagged----6e66739c733f--data_engineer---8----------------------------
+🟢 [2024-10-27 23:28:49] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-martech-dataquality-série-engenharia-de-dados-parte-ii-1bfa15f26a70?source=collection_tagged----6e66739c733f--data_engineer---8----------------------------
+🟢 [2024-10-27 23:28:51] [OK] Link OK: https://blog.dp6.com.br/coleta-de-dados-para-martech-e-adtech-por-que-sua-empresa-deve-fazer-esse-investimento-84e5a3143db6?source=collection_tagged----6e66739c733f--data_engineer---9----------------------------
+🟢 [2024-10-27 23:28:54] [OK] Link OK: https://blog.dp6.com.br/coleta-de-dados-para-martech-e-adtech-por-que-sua-empresa-deve-fazer-esse-investimento-84e5a3143db6?source=collection_tagged----6e66739c733f--data_engineer---9----------------------------
+🟢 [2024-10-27 23:28:56] [OK] Link OK: https://blog.dp6.com.br/coleta-de-dados-para-martech-e-adtech-por-que-sua-empresa-deve-fazer-esse-investimento-84e5a3143db6?source=collection_tagged----6e66739c733f--data_engineer---9----------------------------
+🟢 [2024-10-27 23:28:58] [OK] Link OK: https://blog.dp6.com.br/tagged/pressinquiries@medium.com?source=collection_tagged---collection_sidebar-6e66739c733f--data_engineer-------------------------------
+[2024-10-27 23:28:58] 🔎 Página atual: https://blog.dp6.com.br/tagged/data-science?source=collection_home_page----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:29:01] [OK] Acessando: https://blog.dp6.com.br/tagged/data-science?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:29:03] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:29:05] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:29:07] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:29:09] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:29:12] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:29:13] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:29:15] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:29:17] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:29:19] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:29:21] [OK] Link OK: https://blog.dp6.com.br/otimizando-decisões-de-investimento-em-marketing-com-mmm-48b081b1baf3?source=collection_tagged----6e66739c733f--data_science---0----------------------------
+🟢 [2024-10-27 23:29:23] [OK] Link OK: https://blog.dp6.com.br/otimizando-decisões-de-investimento-em-marketing-com-mmm-48b081b1baf3?source=collection_tagged----6e66739c733f--data_science---0----------------------------
+🟢 [2024-10-27 23:29:25] [OK] Link OK: https://blog.dp6.com.br/otimizando-decisões-de-investimento-em-marketing-com-mmm-48b081b1baf3?source=collection_tagged----6e66739c733f--data_science---0----------------------------
+🟢 [2024-10-27 23:29:27] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--data_science---1----------------------------
+🟢 [2024-10-27 23:29:29] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--data_science---1----------------------------
+🟢 [2024-10-27 23:29:31] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--data_science---1----------------------------
+🟢 [2024-10-27 23:29:33] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--data_science---2----------------------------
+🟢 [2024-10-27 23:29:35] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--data_science---2----------------------------
+🟢 [2024-10-27 23:29:37] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--data_science---2----------------------------
+🟢 [2024-10-27 23:29:39] [OK] Link OK: https://blog.dp6.com.br/marketing-data-science-o-maior-evento-de-analytics-e-data-science-do-ano-c9398ab72428?source=collection_tagged----6e66739c733f--data_science---3----------------------------
+🟢 [2024-10-27 23:29:41] [OK] Link OK: https://blog.dp6.com.br/marketing-data-science-o-maior-evento-de-analytics-e-data-science-do-ano-c9398ab72428?source=collection_tagged----6e66739c733f--data_science---3----------------------------
+🟢 [2024-10-27 23:29:43] [OK] Link OK: https://blog.dp6.com.br/marketing-data-science-o-maior-evento-de-analytics-e-data-science-do-ano-c9398ab72428?source=collection_tagged----6e66739c733f--data_science---3----------------------------
+🟢 [2024-10-27 23:29:45] [OK] Link OK: https://blog.dp6.com.br/o-que-uma-consultoria-de-marketing-analytics-e-data-science-faz-49f854b45c7c?source=collection_tagged----6e66739c733f--data_science---4----------------------------
+🟢 [2024-10-27 23:29:47] [OK] Link OK: https://blog.dp6.com.br/o-que-uma-consultoria-de-marketing-analytics-e-data-science-faz-49f854b45c7c?source=collection_tagged----6e66739c733f--data_science---4----------------------------
+🟢 [2024-10-27 23:29:49] [OK] Link OK: https://blog.dp6.com.br/o-que-uma-consultoria-de-marketing-analytics-e-data-science-faz-49f854b45c7c?source=collection_tagged----6e66739c733f--data_science---4----------------------------
+🟢 [2024-10-27 23:29:51] [OK] Link OK: https://blog.dp6.com.br/entendendo-sistemas-de-recomendação-o-que-são-e-para-quê-servem-e81a4e3e3ee0?source=collection_tagged----6e66739c733f--data_science---5----------------------------
+🟢 [2024-10-27 23:29:53] [OK] Link OK: https://blog.dp6.com.br/entendendo-sistemas-de-recomendação-o-que-são-e-para-quê-servem-e81a4e3e3ee0?source=collection_tagged----6e66739c733f--data_science---5----------------------------
+🟢 [2024-10-27 23:29:55] [OK] Link OK: https://blog.dp6.com.br/entendendo-sistemas-de-recomendação-o-que-são-e-para-quê-servem-e81a4e3e3ee0?source=collection_tagged----6e66739c733f--data_science---5----------------------------
+🟢 [2024-10-27 23:29:57] [OK] Link OK: https://blog.dp6.com.br/segurança-da-informação-especial-dia-internacional-da-proteção-de-dados-5c081e309484?source=collection_tagged----6e66739c733f--data_science---6----------------------------
+🟢 [2024-10-27 23:29:59] [OK] Link OK: https://blog.dp6.com.br/segurança-da-informação-especial-dia-internacional-da-proteção-de-dados-5c081e309484?source=collection_tagged----6e66739c733f--data_science---6----------------------------
+🟢 [2024-10-27 23:30:01] [OK] Link OK: https://blog.dp6.com.br/segurança-da-informação-especial-dia-internacional-da-proteção-de-dados-5c081e309484?source=collection_tagged----6e66739c733f--data_science---6----------------------------
+🟢 [2024-10-27 23:30:04] [OK] Link OK: https://blog.dp6.com.br/está-no-ar-o-podcast-dp6-e-desta-vez-temos-3-episódios-especiais-9bb6340a6cde?source=collection_tagged----6e66739c733f--data_science---7----------------------------
+🟢 [2024-10-27 23:30:05] [OK] Link OK: https://blog.dp6.com.br/está-no-ar-o-podcast-dp6-e-desta-vez-temos-3-episódios-especiais-9bb6340a6cde?source=collection_tagged----6e66739c733f--data_science---7----------------------------
+🟢 [2024-10-27 23:30:07] [OK] Link OK: https://blog.dp6.com.br/está-no-ar-o-podcast-dp6-e-desta-vez-temos-3-episódios-especiais-9bb6340a6cde?source=collection_tagged----6e66739c733f--data_science---7----------------------------
+🟢 [2024-10-27 23:30:09] [OK] Link OK: https://blog.dp6.com.br/destaques-do-marketing-data-science-on-air-2020-55f8444f300a?source=collection_tagged----6e66739c733f--data_science---8----------------------------
+🟢 [2024-10-27 23:30:11] [OK] Link OK: https://blog.dp6.com.br/destaques-do-marketing-data-science-on-air-2020-55f8444f300a?source=collection_tagged----6e66739c733f--data_science---8----------------------------
+🟢 [2024-10-27 23:30:13] [OK] Link OK: https://blog.dp6.com.br/destaques-do-marketing-data-science-on-air-2020-55f8444f300a?source=collection_tagged----6e66739c733f--data_science---8----------------------------
+🟢 [2024-10-27 23:30:15] [OK] Link OK: https://blog.dp6.com.br/vem-aí-o-dp6-marketing-data-science-on-air-2020-d0c53ffbdf63?source=collection_tagged----6e66739c733f--data_science---9----------------------------
+🟢 [2024-10-27 23:30:17] [OK] Link OK: https://blog.dp6.com.br/vem-aí-o-dp6-marketing-data-science-on-air-2020-d0c53ffbdf63?source=collection_tagged----6e66739c733f--data_science---9----------------------------
+🟢 [2024-10-27 23:30:20] [OK] Link OK: https://blog.dp6.com.br/vem-aí-o-dp6-marketing-data-science-on-air-2020-d0c53ffbdf63?source=collection_tagged----6e66739c733f--data_science---9----------------------------
+🟢 [2024-10-27 23:30:22] [OK] Link OK: https://blog.dp6.com.br/tagged/pressinquiries@medium.com?source=collection_tagged---collection_sidebar-6e66739c733f--data_science-------------------------------
+[2024-10-27 23:30:22] 🔎 Página atual: https://blog.dp6.com.br/tagged/data-visualization?source=collection_home_page----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:30:24] [OK] Acessando: https://blog.dp6.com.br/tagged/data-visualization?source=collection_home_page----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:30:26] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:30:27] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:30:29] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:30:31] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:30:33] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:30:35] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:30:37] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:30:39] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:30:41] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:30:43] [OK] Link OK: https://blog.dp6.com.br/data-studio-três-importantes-atualizações-da-ferramenta-no-último-semestre-17d9a8fbf2af?source=collection_tagged----6e66739c733f--data_visualization---0----------------------------
+🟢 [2024-10-27 23:30:45] [OK] Link OK: https://blog.dp6.com.br/data-studio-três-importantes-atualizações-da-ferramenta-no-último-semestre-17d9a8fbf2af?source=collection_tagged----6e66739c733f--data_visualization---0----------------------------
+🟢 [2024-10-27 23:30:47] [OK] Link OK: https://blog.dp6.com.br/data-studio-três-importantes-atualizações-da-ferramenta-no-último-semestre-17d9a8fbf2af?source=collection_tagged----6e66739c733f--data_visualization---0----------------------------
+🟢 [2024-10-27 23:30:49] [OK] Link OK: https://blog.dp6.com.br/como-escolher-a-melhor-ferramenta-para-visualização-de-dados-483a688443e6?source=collection_tagged----6e66739c733f--data_visualization---1----------------------------
+🟢 [2024-10-27 23:30:51] [OK] Link OK: https://blog.dp6.com.br/como-escolher-a-melhor-ferramenta-para-visualização-de-dados-483a688443e6?source=collection_tagged----6e66739c733f--data_visualization---1----------------------------
+🟢 [2024-10-27 23:30:53] [OK] Link OK: https://blog.dp6.com.br/como-escolher-a-melhor-ferramenta-para-visualização-de-dados-483a688443e6?source=collection_tagged----6e66739c733f--data_visualization---1----------------------------
+🟢 [2024-10-27 23:30:55] [OK] Link OK: https://blog.dp6.com.br/guia-de-estatística-correlação-parte-i-b57b7c792b94?source=collection_tagged----6e66739c733f--data_visualization---2----------------------------
+🟢 [2024-10-27 23:30:58] [OK] Link OK: https://blog.dp6.com.br/guia-de-estatística-correlação-parte-i-b57b7c792b94?source=collection_tagged----6e66739c733f--data_visualization---2----------------------------
+🟢 [2024-10-27 23:31:00] [OK] Link OK: https://blog.dp6.com.br/guia-de-estatística-correlação-parte-i-b57b7c792b94?source=collection_tagged----6e66739c733f--data_visualization---2----------------------------
+🟢 [2024-10-27 23:31:02] [OK] Link OK: https://blog.dp6.com.br/sala-de-performance-parte-2-cd1dfe7c2226?source=collection_tagged----6e66739c733f--data_visualization---3----------------------------
+🟢 [2024-10-27 23:31:04] [OK] Link OK: https://blog.dp6.com.br/sala-de-performance-parte-2-cd1dfe7c2226?source=collection_tagged----6e66739c733f--data_visualization---3----------------------------
+🟢 [2024-10-27 23:31:06] [OK] Link OK: https://blog.dp6.com.br/sala-de-performance-parte-2-cd1dfe7c2226?source=collection_tagged----6e66739c733f--data_visualization---3----------------------------
+🟢 [2024-10-27 23:31:08] [OK] Link OK: https://blog.dp6.com.br/criação-de-dashboard-no-tableau-com-dados-de-adobe-uma-possível-solução-2eedb1454610?source=collection_tagged----6e66739c733f--data_visualization---4----------------------------
+🟢 [2024-10-27 23:31:10] [OK] Link OK: https://blog.dp6.com.br/criação-de-dashboard-no-tableau-com-dados-de-adobe-uma-possível-solução-2eedb1454610?source=collection_tagged----6e66739c733f--data_visualization---4----------------------------
+🟢 [2024-10-27 23:31:12] [OK] Link OK: https://blog.dp6.com.br/criação-de-dashboard-no-tableau-com-dados-de-adobe-uma-possível-solução-2eedb1454610?source=collection_tagged----6e66739c733f--data_visualization---4----------------------------
+🟢 [2024-10-27 23:31:14] [OK] Link OK: https://blog.dp6.com.br/guia-de-gráficos-avançados-dataviz-intermediate-3-de-4-2c29fd0e7bc6?source=collection_tagged----6e66739c733f--data_visualization---5----------------------------
+🟢 [2024-10-27 23:31:16] [OK] Link OK: https://blog.dp6.com.br/guia-de-gráficos-avançados-dataviz-intermediate-3-de-4-2c29fd0e7bc6?source=collection_tagged----6e66739c733f--data_visualization---5----------------------------
+🟢 [2024-10-27 23:31:18] [OK] Link OK: https://blog.dp6.com.br/guia-de-gráficos-avançados-dataviz-intermediate-3-de-4-2c29fd0e7bc6?source=collection_tagged----6e66739c733f--data_visualization---5----------------------------
+🟢 [2024-10-27 23:31:20] [OK] Link OK: https://blog.dp6.com.br/workspace-visualização-de-dados-otimizada-na-adobe-28ce0eeb2231?source=collection_tagged----6e66739c733f--data_visualization---6----------------------------
+🟢 [2024-10-27 23:31:22] [OK] Link OK: https://blog.dp6.com.br/workspace-visualização-de-dados-otimizada-na-adobe-28ce0eeb2231?source=collection_tagged----6e66739c733f--data_visualization---6----------------------------
+🟢 [2024-10-27 23:31:24] [OK] Link OK: https://blog.dp6.com.br/workspace-visualização-de-dados-otimizada-na-adobe-28ce0eeb2231?source=collection_tagged----6e66739c733f--data_visualization---6----------------------------
+🟢 [2024-10-27 23:31:26] [OK] Link OK: https://blog.dp6.com.br/como-criar-dashboards-eficientes-dataviz-intermediate-2-de-4-f073b96f0d89?source=collection_tagged----6e66739c733f--data_visualization---7----------------------------
+🟢 [2024-10-27 23:31:28] [OK] Link OK: https://blog.dp6.com.br/como-criar-dashboards-eficientes-dataviz-intermediate-2-de-4-f073b96f0d89?source=collection_tagged----6e66739c733f--data_visualization---7----------------------------
+🟢 [2024-10-27 23:31:30] [OK] Link OK: https://blog.dp6.com.br/como-criar-dashboards-eficientes-dataviz-intermediate-2-de-4-f073b96f0d89?source=collection_tagged----6e66739c733f--data_visualization---7----------------------------
+🟢 [2024-10-27 23:31:32] [OK] Link OK: https://blog.dp6.com.br/por-que-dataviz-é-essencial-e-como-provar-pro-seu-chefe-dataviz-intermediate-1-de-4-b3ce7e8b9917?source=collection_tagged----6e66739c733f--data_visualization---8----------------------------
+🟢 [2024-10-27 23:31:33] [OK] Link OK: https://blog.dp6.com.br/por-que-dataviz-é-essencial-e-como-provar-pro-seu-chefe-dataviz-intermediate-1-de-4-b3ce7e8b9917?source=collection_tagged----6e66739c733f--data_visualization---8----------------------------
+🟢 [2024-10-27 23:31:35] [OK] Link OK: https://blog.dp6.com.br/por-que-dataviz-é-essencial-e-como-provar-pro-seu-chefe-dataviz-intermediate-1-de-4-b3ce7e8b9917?source=collection_tagged----6e66739c733f--data_visualization---8----------------------------
+🟢 [2024-10-27 23:31:37] [OK] Link OK: https://blog.dp6.com.br/google-data-studio-a-nova-ferramenta-de-visualização-de-dados-7233b50588a0?source=collection_tagged----6e66739c733f--data_visualization---9----------------------------
+🟢 [2024-10-27 23:31:39] [OK] Link OK: https://blog.dp6.com.br/google-data-studio-a-nova-ferramenta-de-visualização-de-dados-7233b50588a0?source=collection_tagged----6e66739c733f--data_visualization---9----------------------------
+🟢 [2024-10-27 23:31:41] [OK] Link OK: https://blog.dp6.com.br/google-data-studio-a-nova-ferramenta-de-visualização-de-dados-7233b50588a0?source=collection_tagged----6e66739c733f--data_visualization---9----------------------------
+🟢 [2024-10-27 23:31:43] [OK] Link OK: https://blog.dp6.com.br/tagged/pressinquiries@medium.com?source=collection_tagged---collection_sidebar-6e66739c733f--data_visualization-------------------------------
+[2024-10-27 23:31:43] 🔎 Página atual: https://blog.dp6.com.br/black-friday-2024-8-lições-cruciais-da-edição-de-2023-para-aumentar-suas-vendas-online-3947aeab6bde?source=collection_home_page----6e66739c733f-----0----------------------------
+==================================================
+🟢 [2024-10-27 23:31:45] [OK] Acessando: https://blog.dp6.com.br/black-friday-2024-8-lições-cruciais-da-edição-de-2023-para-aumentar-suas-vendas-online-3947aeab6bde?source=collection_home_page----6e66739c733f-----0----------------------------
+🟢 [2024-10-27 23:31:47] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----3947aeab6bde--------------------------------
+🟢 [2024-10-27 23:31:49] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----3947aeab6bde--------------------------------
+🟢 [2024-10-27 23:31:52] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----3947aeab6bde--------------------------------
+🟢 [2024-10-27 23:31:54] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----3947aeab6bde--------------------------------
+🟢 [2024-10-27 23:31:56] [OK] Link OK: http://blog.dp6.com.br
+❌ [2024-10-27 23:31:58] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/black-friday-2024-8-lições-cruciais-da-edição-de-2023-para-aumentar-suas-vendas-online-3947aeab6bde?source=collection_home_page----6e66739c733f-----0----------------------------
+❌ [2024-10-27 23:31:58] [Erro] ❌ {
+  página: https://blog.dp6.com.br/black-friday-2024-8-lições-cruciais-da-edição-de-2023-para-aumentar-suas-vendas-online-3947aeab6bde?source=collection_home_page----6e66739c733f-----0----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----3947aeab6bde--------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:31:58] 🔎 Página atual: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_home_page----6e66739c733f-----1----------------------------
+==================================================
+🟢 [2024-10-27 23:32:00] [OK] Acessando: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_home_page----6e66739c733f-----1----------------------------
+🟢 [2024-10-27 23:32:02] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----5c9780d4ef57--------------------------------
+🟢 [2024-10-27 23:32:04] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----5c9780d4ef57--------------------------------
+🟢 [2024-10-27 23:32:06] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----5c9780d4ef57--------------------------------
+🟢 [2024-10-27 23:32:08] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----5c9780d4ef57--------------------------------
+🟢 [2024-10-27 23:32:11] [OK] Link OK: http://blog.dp6.com.br
+❌ [2024-10-27 23:32:13] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_home_page----6e66739c733f-----1----------------------------
+❌ [2024-10-27 23:32:13] [Erro] ❌ {
+  página: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_home_page----6e66739c733f-----1----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----5c9780d4ef57--------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:32:13] 🔎 Página atual: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_home_page----6e66739c733f-----2----------------------------
+==================================================
+🟢 [2024-10-27 23:32:15] [OK] Acessando: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_home_page----6e66739c733f-----2----------------------------
+🟢 [2024-10-27 23:32:17] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----c12abee17a29--------------------------------
+🟢 [2024-10-27 23:32:19] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----c12abee17a29--------------------------------
+🟢 [2024-10-27 23:32:21] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----c12abee17a29--------------------------------
+🟢 [2024-10-27 23:32:23] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----c12abee17a29--------------------------------
+🟢 [2024-10-27 23:32:26] [OK] Link OK: http://blog.dp6.com.br
+❌ [2024-10-27 23:32:28] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_home_page----6e66739c733f-----2----------------------------
+❌ [2024-10-27 23:32:28] [Erro] ❌ {
+  página: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_home_page----6e66739c733f-----2----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----c12abee17a29--------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:32:28] 🔎 Página atual: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_home_page----6e66739c733f-----3----------------------------
+==================================================
+🟢 [2024-10-27 23:32:30] [OK] Acessando: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_home_page----6e66739c733f-----3----------------------------
+🟢 [2024-10-27 23:32:32] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----30fa87913b9a--------------------------------
+🟢 [2024-10-27 23:32:35] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----30fa87913b9a--------------------------------
+🟢 [2024-10-27 23:32:37] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----30fa87913b9a--------------------------------
+🟢 [2024-10-27 23:32:39] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----30fa87913b9a--------------------------------
+🟢 [2024-10-27 23:32:42] [OK] Link OK: http://blog.dp6.com.br
+❌ [2024-10-27 23:32:43] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_home_page----6e66739c733f-----3----------------------------
+❌ [2024-10-27 23:32:43] [Erro] ❌ {
+  página: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_home_page----6e66739c733f-----3----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----30fa87913b9a--------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:32:44] 🔎 Página atual: https://blog.dp6.com.br/gtm-server-side-otimizando-a-experiência-do-usuário-na-black-friday-com-uma-coleta-eficiente-b496bd60c445?source=collection_home_page----6e66739c733f-----4----------------------------
+==================================================
+🟢 [2024-10-27 23:32:46] [OK] Acessando: https://blog.dp6.com.br/gtm-server-side-otimizando-a-experiência-do-usuário-na-black-friday-com-uma-coleta-eficiente-b496bd60c445?source=collection_home_page----6e66739c733f-----4----------------------------
+🟢 [2024-10-27 23:32:48] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----b496bd60c445--------------------------------
+🟢 [2024-10-27 23:32:50] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----b496bd60c445--------------------------------
+🟢 [2024-10-27 23:32:52] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----b496bd60c445--------------------------------
+🟢 [2024-10-27 23:32:54] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----b496bd60c445--------------------------------
+🟢 [2024-10-27 23:32:56] [OK] Link OK: http://blog.dp6.com.br
+❌ [2024-10-27 23:32:58] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/gtm-server-side-otimizando-a-experiência-do-usuário-na-black-friday-com-uma-coleta-eficiente-b496bd60c445?source=collection_home_page----6e66739c733f-----4----------------------------
+❌ [2024-10-27 23:32:58] [Erro] ❌ {
+  página: https://blog.dp6.com.br/gtm-server-side-otimizando-a-experiência-do-usuário-na-black-friday-com-uma-coleta-eficiente-b496bd60c445?source=collection_home_page----6e66739c733f-----4----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----b496bd60c445--------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:32:58] 🔎 Página atual: https://blog.dp6.com.br/fórum-ecommerce-brasil-2024-principais-insights-e-takeaways-a-experiência-do-usuário-como-pilar-1cd92f54d37e?source=collection_home_page----6e66739c733f-----5----------------------------
+==================================================
+🟢 [2024-10-27 23:33:01] [OK] Acessando: https://blog.dp6.com.br/fórum-ecommerce-brasil-2024-principais-insights-e-takeaways-a-experiência-do-usuário-como-pilar-1cd92f54d37e?source=collection_home_page----6e66739c733f-----5----------------------------
+🟢 [2024-10-27 23:33:04] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----1cd92f54d37e--------------------------------
+🟢 [2024-10-27 23:33:06] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----1cd92f54d37e--------------------------------
+🟢 [2024-10-27 23:33:08] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----1cd92f54d37e--------------------------------
+🟢 [2024-10-27 23:33:10] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----1cd92f54d37e--------------------------------
+🟢 [2024-10-27 23:33:13] [OK] Link OK: http://blog.dp6.com.br
+❌ [2024-10-27 23:33:14] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/fórum-ecommerce-brasil-2024-principais-insights-e-takeaways-a-experiência-do-usuário-como-pilar-1cd92f54d37e?source=collection_home_page----6e66739c733f-----5----------------------------
+❌ [2024-10-27 23:33:14] [Erro] ❌ {
+  página: https://blog.dp6.com.br/fórum-ecommerce-brasil-2024-principais-insights-e-takeaways-a-experiência-do-usuário-como-pilar-1cd92f54d37e?source=collection_home_page----6e66739c733f-----5----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----1cd92f54d37e--------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:33:14] 🔎 Página atual: https://blog.dp6.com.br/google-reverte-decisão-sobre-cookies-o-que-isso-significa-para-seu-negócio-b1d919ce5f50?source=collection_home_page----6e66739c733f-----6----------------------------
+==================================================
+🟢 [2024-10-27 23:33:16] [OK] Acessando: https://blog.dp6.com.br/google-reverte-decisão-sobre-cookies-o-que-isso-significa-para-seu-negócio-b1d919ce5f50?source=collection_home_page----6e66739c733f-----6----------------------------
+🟢 [2024-10-27 23:33:18] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----b1d919ce5f50--------------------------------
+🟢 [2024-10-27 23:33:20] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----b1d919ce5f50--------------------------------
+🟢 [2024-10-27 23:33:23] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----b1d919ce5f50--------------------------------
+🟢 [2024-10-27 23:33:25] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----b1d919ce5f50--------------------------------
+🟢 [2024-10-27 23:33:27] [OK] Link OK: http://blog.dp6.com.br
+❌ [2024-10-27 23:33:29] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/google-reverte-decisão-sobre-cookies-o-que-isso-significa-para-seu-negócio-b1d919ce5f50?source=collection_home_page----6e66739c733f-----6----------------------------
+❌ [2024-10-27 23:33:29] [Erro] ❌ {
+  página: https://blog.dp6.com.br/google-reverte-decisão-sobre-cookies-o-que-isso-significa-para-seu-negócio-b1d919ce5f50?source=collection_home_page----6e66739c733f-----6----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----b1d919ce5f50--------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:33:29] 🔎 Página atual: https://blog.dp6.com.br/série-visualização-de-dados-3-inclusão-na-visualização-de-dados-afac26ca2db9?source=collection_home_page----6e66739c733f-----7----------------------------
+==================================================
+🟢 [2024-10-27 23:33:31] [OK] Acessando: https://blog.dp6.com.br/série-visualização-de-dados-3-inclusão-na-visualização-de-dados-afac26ca2db9?source=collection_home_page----6e66739c733f-----7----------------------------
+🟢 [2024-10-27 23:33:33] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----afac26ca2db9--------------------------------
+🟢 [2024-10-27 23:33:36] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----afac26ca2db9--------------------------------
+🟢 [2024-10-27 23:33:37] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----afac26ca2db9--------------------------------
+🟢 [2024-10-27 23:33:39] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----afac26ca2db9--------------------------------
+🟢 [2024-10-27 23:33:42] [OK] Link OK: http://blog.dp6.com.br
+❌ [2024-10-27 23:33:44] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/série-visualização-de-dados-3-inclusão-na-visualização-de-dados-afac26ca2db9?source=collection_home_page----6e66739c733f-----7----------------------------
+❌ [2024-10-27 23:33:44] [Erro] ❌ {
+  página: https://blog.dp6.com.br/série-visualização-de-dados-3-inclusão-na-visualização-de-dados-afac26ca2db9?source=collection_home_page----6e66739c733f-----7----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----afac26ca2db9--------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:33:44] 🔎 Página atual: https://blog.dp6.com.br/inteligência-artificial-potencializando-a-produtividade-no-marketing-5a3a20a24b12?source=collection_home_page----6e66739c733f-----8----------------------------
+==================================================
+🟢 [2024-10-27 23:33:46] [OK] Acessando: https://blog.dp6.com.br/inteligência-artificial-potencializando-a-produtividade-no-marketing-5a3a20a24b12?source=collection_home_page----6e66739c733f-----8----------------------------
+🟢 [2024-10-27 23:33:48] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----5a3a20a24b12--------------------------------
+🟢 [2024-10-27 23:33:50] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----5a3a20a24b12--------------------------------
+🟢 [2024-10-27 23:33:53] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----5a3a20a24b12--------------------------------
+🟢 [2024-10-27 23:33:56] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----5a3a20a24b12--------------------------------
+🟢 [2024-10-27 23:33:58] [OK] Link OK: http://blog.dp6.com.br
+❌ [2024-10-27 23:34:00] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/inteligência-artificial-potencializando-a-produtividade-no-marketing-5a3a20a24b12?source=collection_home_page----6e66739c733f-----8----------------------------
+❌ [2024-10-27 23:34:00] [Erro] ❌ {
+  página: https://blog.dp6.com.br/inteligência-artificial-potencializando-a-produtividade-no-marketing-5a3a20a24b12?source=collection_home_page----6e66739c733f-----8----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----5a3a20a24b12--------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:34:00] 🔎 Página atual: https://blog.dp6.com.br/série-visualização-de-dados-2-como-escolher-a-melhor-visualização-9cddeec726eb?source=collection_home_page----6e66739c733f-----9----------------------------
+==================================================
+🟢 [2024-10-27 23:34:02] [OK] Acessando: https://blog.dp6.com.br/série-visualização-de-dados-2-como-escolher-a-melhor-visualização-9cddeec726eb?source=collection_home_page----6e66739c733f-----9----------------------------
+🟢 [2024-10-27 23:34:04] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----9cddeec726eb--------------------------------
+🟢 [2024-10-27 23:34:06] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----9cddeec726eb--------------------------------
+🟢 [2024-10-27 23:34:08] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----9cddeec726eb--------------------------------
+🟢 [2024-10-27 23:34:10] [OK] Link OK: https://blog.dp6.com.br/?source=post_page-----9cddeec726eb--------------------------------
+🟢 [2024-10-27 23:34:12] [OK] Link OK: http://blog.dp6.com.br
+❌ [2024-10-27 23:34:14] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/série-visualização-de-dados-2-como-escolher-a-melhor-visualização-9cddeec726eb?source=collection_home_page----6e66739c733f-----9----------------------------
+❌ [2024-10-27 23:34:14] [Erro] ❌ {
+  página: https://blog.dp6.com.br/série-visualização-de-dados-2-como-escolher-a-melhor-visualização-9cddeec726eb?source=collection_home_page----6e66739c733f-----9----------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=post_page-----9cddeec726eb--------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:34:14] 🔎 Página atual: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_home_page---collection_sidebar-6e66739c733f---------------------------------
+==================================================
+❌ [2024-10-27 23:34:16] [Erro] Problema na página https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_home_page---collection_sidebar-6e66739c733f--------------------------------- - Código: 404
+[2024-10-27 23:34:16] 🔎 Página atual: https://blog.dp6.com.br/?source=collection_about----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:34:18] [OK] Acessando: https://blog.dp6.com.br/?source=collection_about----6e66739c733f---------------------------------
+[2024-10-27 23:34:18] 🔎 Página atual: https://blog.dp6.com.br/followers?source=collection_about----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:34:20] [OK] Acessando: https://blog.dp6.com.br/followers?source=collection_about----6e66739c733f---------------------------------
+[2024-10-27 23:34:20] 🔎 Página atual: https://blog.dp6.com.br/about?source=collection_about----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:34:22] [OK] Acessando: https://blog.dp6.com.br/about?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:34:25] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:34:28] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:34:30] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:34:33] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:34:35] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_about----6e66739c733f---------------------------------
+❌ [2024-10-27 23:34:37] [Erro] Link quebrado encontrado na página https://blog.dp6.com.br/about?source=collection_about----6e66739c733f---------------------------------
+❌ [2024-10-27 23:34:37] [Erro] ❌ {
+  página: https://blog.dp6.com.br/about?source=collection_about----6e66739c733f---------------------------------,
+  link_quebrado: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_about---collection_sidebar-6e66739c733f---------------------------------,
+  erro: Código 404 (inacessível)
+}
+[2024-10-27 23:34:37] 🔎 Página atual: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_about----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:34:39] [OK] Acessando: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:34:42] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:34:43] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:34:46] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:34:47] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:34:49] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:34:51] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:34:53] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:34:55] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:34:57] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:34:59] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_tagged----6e66739c733f--digital_marketing---0----------------------------
+🟢 [2024-10-27 23:35:01] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_tagged----6e66739c733f--digital_marketing---0----------------------------
+🟢 [2024-10-27 23:35:03] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_tagged----6e66739c733f--digital_marketing---0----------------------------
+🟢 [2024-10-27 23:35:05] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_tagged----6e66739c733f--digital_marketing---1----------------------------
+🟢 [2024-10-27 23:35:06] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_tagged----6e66739c733f--digital_marketing---1----------------------------
+🟢 [2024-10-27 23:35:08] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_tagged----6e66739c733f--digital_marketing---1----------------------------
+🟢 [2024-10-27 23:35:10] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_tagged----6e66739c733f--digital_marketing---2----------------------------
+🟢 [2024-10-27 23:35:12] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_tagged----6e66739c733f--digital_marketing---2----------------------------
+🟢 [2024-10-27 23:35:14] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_tagged----6e66739c733f--digital_marketing---2----------------------------
+🟢 [2024-10-27 23:35:16] [OK] Link OK: https://blog.dp6.com.br/google-marketing-live-2024-c6fc266bf2f5?source=collection_tagged----6e66739c733f--digital_marketing---3----------------------------
+🟢 [2024-10-27 23:35:18] [OK] Link OK: https://blog.dp6.com.br/google-marketing-live-2024-c6fc266bf2f5?source=collection_tagged----6e66739c733f--digital_marketing---3----------------------------
+🟢 [2024-10-27 23:35:20] [OK] Link OK: https://blog.dp6.com.br/google-marketing-live-2024-c6fc266bf2f5?source=collection_tagged----6e66739c733f--digital_marketing---3----------------------------
+🟢 [2024-10-27 23:35:22] [OK] Link OK: https://blog.dp6.com.br/agile-marketing-revolucionando-a-estratégia-de-marketing-digital-na-era-da-informação-d9fd61fe80f4?source=collection_tagged----6e66739c733f--digital_marketing---4----------------------------
+🟢 [2024-10-27 23:35:24] [OK] Link OK: https://blog.dp6.com.br/agile-marketing-revolucionando-a-estratégia-de-marketing-digital-na-era-da-informação-d9fd61fe80f4?source=collection_tagged----6e66739c733f--digital_marketing---4----------------------------
+🟢 [2024-10-27 23:35:25] [OK] Link OK: https://blog.dp6.com.br/agile-marketing-revolucionando-a-estratégia-de-marketing-digital-na-era-da-informação-d9fd61fe80f4?source=collection_tagged----6e66739c733f--digital_marketing---4----------------------------
+🟢 [2024-10-27 23:35:28] [OK] Link OK: https://blog.dp6.com.br/tracking-protection-recurso-do-chrome-e-o-fim-dos-cookies-2c256ce3f776?source=collection_tagged----6e66739c733f--digital_marketing---5----------------------------
+🟢 [2024-10-27 23:35:30] [OK] Link OK: https://blog.dp6.com.br/tracking-protection-recurso-do-chrome-e-o-fim-dos-cookies-2c256ce3f776?source=collection_tagged----6e66739c733f--digital_marketing---5----------------------------
+🟢 [2024-10-27 23:35:32] [OK] Link OK: https://blog.dp6.com.br/tracking-protection-recurso-do-chrome-e-o-fim-dos-cookies-2c256ce3f776?source=collection_tagged----6e66739c733f--digital_marketing---5----------------------------
+🟢 [2024-10-27 23:35:34] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--digital_marketing---6----------------------------
+🟢 [2024-10-27 23:35:36] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--digital_marketing---6----------------------------
+🟢 [2024-10-27 23:35:37] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--digital_marketing---6----------------------------
+🟢 [2024-10-27 23:35:39] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--digital_marketing---7----------------------------
+🟢 [2024-10-27 23:35:41] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--digital_marketing---7----------------------------
+🟢 [2024-10-27 23:35:43] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--digital_marketing---7----------------------------
+🟢 [2024-10-27 23:35:45] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-do-blog-dp6-em-2021-b808823e489b?source=collection_tagged----6e66739c733f--digital_marketing---8----------------------------
+🟢 [2024-10-27 23:35:47] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-do-blog-dp6-em-2021-b808823e489b?source=collection_tagged----6e66739c733f--digital_marketing---8----------------------------
+🟢 [2024-10-27 23:35:49] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-do-blog-dp6-em-2021-b808823e489b?source=collection_tagged----6e66739c733f--digital_marketing---8----------------------------
+🟢 [2024-10-27 23:35:51] [OK] Link OK: https://blog.dp6.com.br/modelo-peso-os-benefícios-de-uma-estratégia-de-mídia-unificada-3a8fa90975f2?source=collection_tagged----6e66739c733f--digital_marketing---9----------------------------
+🟢 [2024-10-27 23:35:53] [OK] Link OK: https://blog.dp6.com.br/modelo-peso-os-benefícios-de-uma-estratégia-de-mídia-unificada-3a8fa90975f2?source=collection_tagged----6e66739c733f--digital_marketing---9----------------------------
+🟢 [2024-10-27 23:35:54] [OK] Link OK: https://blog.dp6.com.br/modelo-peso-os-benefícios-de-uma-estratégia-de-mídia-unificada-3a8fa90975f2?source=collection_tagged----6e66739c733f--digital_marketing---9----------------------------
+🟢 [2024-10-27 23:35:56] [OK] Link OK: https://blog.dp6.com.br/tagged/pressinquiries@medium.com?source=collection_tagged---collection_sidebar-6e66739c733f--digital_marketing-------------------------------
+[2024-10-27 23:35:56] 🔎 Página atual: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_about----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:35:58] [OK] Acessando: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:36:00] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:36:02] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:36:05] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:36:06] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:36:08] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:36:11] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:36:13] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:36:15] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:36:17] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:36:19] [OK] Link OK: https://blog.dp6.com.br/é-o-fim-do-google-optimize-e-agora-ede6fdcfd01d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---0----------------------------
+🟢 [2024-10-27 23:36:21] [OK] Link OK: https://blog.dp6.com.br/é-o-fim-do-google-optimize-e-agora-ede6fdcfd01d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---0----------------------------
+🟢 [2024-10-27 23:36:24] [OK] Link OK: https://blog.dp6.com.br/é-o-fim-do-google-optimize-e-agora-ede6fdcfd01d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---0----------------------------
+🟢 [2024-10-27 23:36:26] [OK] Link OK: https://blog.dp6.com.br/fim-do-optimize-e-a-migração-para-outras-ferramentas-as-maiores-dúvidas-8deda662e8ae?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---1----------------------------
+🟢 [2024-10-27 23:36:28] [OK] Link OK: https://blog.dp6.com.br/fim-do-optimize-e-a-migração-para-outras-ferramentas-as-maiores-dúvidas-8deda662e8ae?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---1----------------------------
+🟢 [2024-10-27 23:36:30] [OK] Link OK: https://blog.dp6.com.br/fim-do-optimize-e-a-migração-para-outras-ferramentas-as-maiores-dúvidas-8deda662e8ae?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---1----------------------------
+🟢 [2024-10-27 23:36:32] [OK] Link OK: https://blog.dp6.com.br/implementação-de-testes-como-prevenir-e-solucionar-problemas-62ed6b3af8f4?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---2----------------------------
+🟢 [2024-10-27 23:36:34] [OK] Link OK: https://blog.dp6.com.br/implementação-de-testes-como-prevenir-e-solucionar-problemas-62ed6b3af8f4?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---2----------------------------
+🟢 [2024-10-27 23:36:36] [OK] Link OK: https://blog.dp6.com.br/implementação-de-testes-como-prevenir-e-solucionar-problemas-62ed6b3af8f4?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---2----------------------------
+🟢 [2024-10-27 23:36:38] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-como-integrar-minha-ferramenta-de-cro-com-o-google-analytics-f8c2ccd49b30?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---3----------------------------
+🟢 [2024-10-27 23:36:40] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-como-integrar-minha-ferramenta-de-cro-com-o-google-analytics-f8c2ccd49b30?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---3----------------------------
+🟢 [2024-10-27 23:36:42] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-como-integrar-minha-ferramenta-de-cro-com-o-google-analytics-f8c2ccd49b30?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---3----------------------------
+🟢 [2024-10-27 23:36:44] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-passos-essenciais-para-implementação-5ccf0c9672b5?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---4----------------------------
+🟢 [2024-10-27 23:36:46] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-passos-essenciais-para-implementação-5ccf0c9672b5?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---4----------------------------
+🟢 [2024-10-27 23:36:48] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-passos-essenciais-para-implementação-5ccf0c9672b5?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---4----------------------------
+🟢 [2024-10-27 23:36:50] [OK] Link OK: https://blog.dp6.com.br/maximizando-resultados-quando-utilizar-uma-ferramenta-de-experimentação-d4867c901c3a?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---5----------------------------
+🟢 [2024-10-27 23:36:52] [OK] Link OK: https://blog.dp6.com.br/maximizando-resultados-quando-utilizar-uma-ferramenta-de-experimentação-d4867c901c3a?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---5----------------------------
+🟢 [2024-10-27 23:36:54] [OK] Link OK: https://blog.dp6.com.br/maximizando-resultados-quando-utilizar-uma-ferramenta-de-experimentação-d4867c901c3a?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---5----------------------------
+🟢 [2024-10-27 23:36:56] [OK] Link OK: https://blog.dp6.com.br/custo-de-oportunidade-o-valor-intrínseco-na-cultura-de-teste-90f1f682ba8d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---6----------------------------
+🟢 [2024-10-27 23:36:58] [OK] Link OK: https://blog.dp6.com.br/custo-de-oportunidade-o-valor-intrínseco-na-cultura-de-teste-90f1f682ba8d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---6----------------------------
+🟢 [2024-10-27 23:37:00] [OK] Link OK: https://blog.dp6.com.br/custo-de-oportunidade-o-valor-intrínseco-na-cultura-de-teste-90f1f682ba8d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---6----------------------------
+🟢 [2024-10-27 23:37:02] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-qual-o-melhor-tipo-de-teste-para-a-necessidade-do-seu-negócio-72e4d11603a8?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---7----------------------------
+🟢 [2024-10-27 23:37:03] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-qual-o-melhor-tipo-de-teste-para-a-necessidade-do-seu-negócio-72e4d11603a8?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---7----------------------------
+🟢 [2024-10-27 23:37:05] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-qual-o-melhor-tipo-de-teste-para-a-necessidade-do-seu-negócio-72e4d11603a8?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---7----------------------------
+🟢 [2024-10-27 23:37:07] [OK] Link OK: https://blog.dp6.com.br/times-de-experimentação-qual-a-melhor-estrutura-para-sua-empresa-e6b0995f1185?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---8----------------------------
+🟢 [2024-10-27 23:37:09] [OK] Link OK: https://blog.dp6.com.br/times-de-experimentação-qual-a-melhor-estrutura-para-sua-empresa-e6b0995f1185?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---8----------------------------
+🟢 [2024-10-27 23:37:11] [OK] Link OK: https://blog.dp6.com.br/times-de-experimentação-qual-a-melhor-estrutura-para-sua-empresa-e6b0995f1185?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---8----------------------------
+🟢 [2024-10-27 23:37:13] [OK] Link OK: https://blog.dp6.com.br/a-importância-da-cultura-de-testes-na-otimização-da-jornada-do-consumidor-ba2621ca8e60?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---9----------------------------
+🟢 [2024-10-27 23:37:15] [OK] Link OK: https://blog.dp6.com.br/a-importância-da-cultura-de-testes-na-otimização-da-jornada-do-consumidor-ba2621ca8e60?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---9----------------------------
+🟢 [2024-10-27 23:37:17] [OK] Link OK: https://blog.dp6.com.br/a-importância-da-cultura-de-testes-na-otimização-da-jornada-do-consumidor-ba2621ca8e60?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---9----------------------------
+🟢 [2024-10-27 23:37:19] [OK] Link OK: https://blog.dp6.com.br/tagged/pressinquiries@medium.com?source=collection_tagged---collection_sidebar-6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+[2024-10-27 23:37:19] 🔎 Página atual: https://blog.dp6.com.br/tagged/data-engineer?source=collection_about----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:37:21] [OK] Acessando: https://blog.dp6.com.br/tagged/data-engineer?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:37:24] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:37:26] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:37:29] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:37:31] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:37:33] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:37:35] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:37:37] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:37:39] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:37:41] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:37:43] [OK] Link OK: https://blog.dp6.com.br/docker-e-engenharia-de-dados-988d8f14de95?source=collection_tagged----6e66739c733f--data_engineer---0----------------------------
+🟢 [2024-10-27 23:37:46] [OK] Link OK: https://blog.dp6.com.br/docker-e-engenharia-de-dados-988d8f14de95?source=collection_tagged----6e66739c733f--data_engineer---0----------------------------
+🟢 [2024-10-27 23:37:48] [OK] Link OK: https://blog.dp6.com.br/docker-e-engenharia-de-dados-988d8f14de95?source=collection_tagged----6e66739c733f--data_engineer---0----------------------------
+🟢 [2024-10-27 23:37:50] [OK] Link OK: https://blog.dp6.com.br/já-imaginou-o-marketing-digital-sem-séries-temporais-f748c1392dea?source=collection_tagged----6e66739c733f--data_engineer---1----------------------------
+🟢 [2024-10-27 23:37:52] [OK] Link OK: https://blog.dp6.com.br/já-imaginou-o-marketing-digital-sem-séries-temporais-f748c1392dea?source=collection_tagged----6e66739c733f--data_engineer---1----------------------------
+🟢 [2024-10-27 23:37:54] [OK] Link OK: https://blog.dp6.com.br/já-imaginou-o-marketing-digital-sem-séries-temporais-f748c1392dea?source=collection_tagged----6e66739c733f--data_engineer---1----------------------------
+🟢 [2024-10-27 23:37:56] [OK] Link OK: https://blog.dp6.com.br/regex-o-guia-essencial-das-expressões-regulares-2fc1df38a481?source=collection_tagged----6e66739c733f--data_engineer---2----------------------------
+🟢 [2024-10-27 23:37:58] [OK] Link OK: https://blog.dp6.com.br/regex-o-guia-essencial-das-expressões-regulares-2fc1df38a481?source=collection_tagged----6e66739c733f--data_engineer---2----------------------------
+🟢 [2024-10-27 23:38:00] [OK] Link OK: https://blog.dp6.com.br/regex-o-guia-essencial-das-expressões-regulares-2fc1df38a481?source=collection_tagged----6e66739c733f--data_engineer---2----------------------------
+🟢 [2024-10-27 23:38:02] [OK] Link OK: https://blog.dp6.com.br/performance-web-e-ux-9250ee9c1057?source=collection_tagged----6e66739c733f--data_engineer---3----------------------------
+🟢 [2024-10-27 23:38:04] [OK] Link OK: https://blog.dp6.com.br/performance-web-e-ux-9250ee9c1057?source=collection_tagged----6e66739c733f--data_engineer---3----------------------------
+🟢 [2024-10-27 23:38:07] [OK] Link OK: https://blog.dp6.com.br/performance-web-e-ux-9250ee9c1057?source=collection_tagged----6e66739c733f--data_engineer---3----------------------------
+🟢 [2024-10-27 23:38:09] [OK] Link OK: https://blog.dp6.com.br/tudo-o-que-você-precisa-saber-sobre-a-profissão-de-engenharia-de-dados-data-engineer-2c0e73c333cb?source=collection_tagged----6e66739c733f--data_engineer---4----------------------------
+🟢 [2024-10-27 23:38:12] [OK] Link OK: https://blog.dp6.com.br/tudo-o-que-você-precisa-saber-sobre-a-profissão-de-engenharia-de-dados-data-engineer-2c0e73c333cb?source=collection_tagged----6e66739c733f--data_engineer---4----------------------------
+🟢 [2024-10-27 23:38:14] [OK] Link OK: https://blog.dp6.com.br/tudo-o-que-você-precisa-saber-sobre-a-profissão-de-engenharia-de-dados-data-engineer-2c0e73c333cb?source=collection_tagged----6e66739c733f--data_engineer---4----------------------------
+🟢 [2024-10-27 23:38:16] [OK] Link OK: https://blog.dp6.com.br/valide-google-analytics-como-um-expert-com-o-analytics-watcher-5e0def916543?source=collection_tagged----6e66739c733f--data_engineer---5----------------------------
+🟢 [2024-10-27 23:38:18] [OK] Link OK: https://blog.dp6.com.br/valide-google-analytics-como-um-expert-com-o-analytics-watcher-5e0def916543?source=collection_tagged----6e66739c733f--data_engineer---5----------------------------
+🟢 [2024-10-27 23:38:22] [OK] Link OK: https://blog.dp6.com.br/valide-google-analytics-como-um-expert-com-o-analytics-watcher-5e0def916543?source=collection_tagged----6e66739c733f--data_engineer---5----------------------------
+🟢 [2024-10-27 23:38:24] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-marketing-data-lake-data-warehouse-data-lakehouse-o-que-preciso-saber-71d5fa2dcc5c?source=collection_tagged----6e66739c733f--data_engineer---6----------------------------
+🟢 [2024-10-27 23:38:26] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-marketing-data-lake-data-warehouse-data-lakehouse-o-que-preciso-saber-71d5fa2dcc5c?source=collection_tagged----6e66739c733f--data_engineer---6----------------------------
+🟢 [2024-10-27 23:38:28] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-marketing-data-lake-data-warehouse-data-lakehouse-o-que-preciso-saber-71d5fa2dcc5c?source=collection_tagged----6e66739c733f--data_engineer---6----------------------------
+🟢 [2024-10-27 23:38:29] [OK] Link OK: https://blog.dp6.com.br/gestão-e-integração-de-dados-seu-negócio-sabe-o-que-é-necessário-para-ter-uma-visão-unificada-f0e458814c1e?source=collection_tagged----6e66739c733f--data_engineer---7----------------------------
+🟢 [2024-10-27 23:38:31] [OK] Link OK: https://blog.dp6.com.br/gestão-e-integração-de-dados-seu-negócio-sabe-o-que-é-necessário-para-ter-uma-visão-unificada-f0e458814c1e?source=collection_tagged----6e66739c733f--data_engineer---7----------------------------
+🟢 [2024-10-27 23:38:33] [OK] Link OK: https://blog.dp6.com.br/gestão-e-integração-de-dados-seu-negócio-sabe-o-que-é-necessário-para-ter-uma-visão-unificada-f0e458814c1e?source=collection_tagged----6e66739c733f--data_engineer---7----------------------------
+🟢 [2024-10-27 23:38:35] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-martech-dataquality-série-engenharia-de-dados-parte-ii-1bfa15f26a70?source=collection_tagged----6e66739c733f--data_engineer---8----------------------------
+🟢 [2024-10-27 23:38:37] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-martech-dataquality-série-engenharia-de-dados-parte-ii-1bfa15f26a70?source=collection_tagged----6e66739c733f--data_engineer---8----------------------------
+🟢 [2024-10-27 23:38:39] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-martech-dataquality-série-engenharia-de-dados-parte-ii-1bfa15f26a70?source=collection_tagged----6e66739c733f--data_engineer---8----------------------------
+🟢 [2024-10-27 23:38:42] [OK] Link OK: https://blog.dp6.com.br/coleta-de-dados-para-martech-e-adtech-por-que-sua-empresa-deve-fazer-esse-investimento-84e5a3143db6?source=collection_tagged----6e66739c733f--data_engineer---9----------------------------
+🟢 [2024-10-27 23:38:44] [OK] Link OK: https://blog.dp6.com.br/coleta-de-dados-para-martech-e-adtech-por-que-sua-empresa-deve-fazer-esse-investimento-84e5a3143db6?source=collection_tagged----6e66739c733f--data_engineer---9----------------------------
+🟢 [2024-10-27 23:38:46] [OK] Link OK: https://blog.dp6.com.br/coleta-de-dados-para-martech-e-adtech-por-que-sua-empresa-deve-fazer-esse-investimento-84e5a3143db6?source=collection_tagged----6e66739c733f--data_engineer---9----------------------------
+🟢 [2024-10-27 23:38:48] [OK] Link OK: https://blog.dp6.com.br/tagged/pressinquiries@medium.com?source=collection_tagged---collection_sidebar-6e66739c733f--data_engineer-------------------------------
+[2024-10-27 23:38:48] 🔎 Página atual: https://blog.dp6.com.br/tagged/data-science?source=collection_about----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:38:50] [OK] Acessando: https://blog.dp6.com.br/tagged/data-science?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:38:52] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:38:54] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:38:57] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:38:59] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:39:01] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:39:04] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:39:06] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:39:08] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:39:11] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--data_science-------------------------------
+🟢 [2024-10-27 23:39:13] [OK] Link OK: https://blog.dp6.com.br/otimizando-decisões-de-investimento-em-marketing-com-mmm-48b081b1baf3?source=collection_tagged----6e66739c733f--data_science---0----------------------------
+🟢 [2024-10-27 23:39:15] [OK] Link OK: https://blog.dp6.com.br/otimizando-decisões-de-investimento-em-marketing-com-mmm-48b081b1baf3?source=collection_tagged----6e66739c733f--data_science---0----------------------------
+🟢 [2024-10-27 23:39:17] [OK] Link OK: https://blog.dp6.com.br/otimizando-decisões-de-investimento-em-marketing-com-mmm-48b081b1baf3?source=collection_tagged----6e66739c733f--data_science---0----------------------------
+🟢 [2024-10-27 23:39:20] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--data_science---1----------------------------
+🟢 [2024-10-27 23:39:22] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--data_science---1----------------------------
+🟢 [2024-10-27 23:39:24] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--data_science---1----------------------------
+🟢 [2024-10-27 23:39:26] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--data_science---2----------------------------
+🟢 [2024-10-27 23:39:28] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--data_science---2----------------------------
+🟢 [2024-10-27 23:39:30] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--data_science---2----------------------------
+🟢 [2024-10-27 23:39:32] [OK] Link OK: https://blog.dp6.com.br/marketing-data-science-o-maior-evento-de-analytics-e-data-science-do-ano-c9398ab72428?source=collection_tagged----6e66739c733f--data_science---3----------------------------
+🟢 [2024-10-27 23:39:34] [OK] Link OK: https://blog.dp6.com.br/marketing-data-science-o-maior-evento-de-analytics-e-data-science-do-ano-c9398ab72428?source=collection_tagged----6e66739c733f--data_science---3----------------------------
+🟢 [2024-10-27 23:39:36] [OK] Link OK: https://blog.dp6.com.br/marketing-data-science-o-maior-evento-de-analytics-e-data-science-do-ano-c9398ab72428?source=collection_tagged----6e66739c733f--data_science---3----------------------------
+🟢 [2024-10-27 23:39:39] [OK] Link OK: https://blog.dp6.com.br/o-que-uma-consultoria-de-marketing-analytics-e-data-science-faz-49f854b45c7c?source=collection_tagged----6e66739c733f--data_science---4----------------------------
+🟢 [2024-10-27 23:39:41] [OK] Link OK: https://blog.dp6.com.br/o-que-uma-consultoria-de-marketing-analytics-e-data-science-faz-49f854b45c7c?source=collection_tagged----6e66739c733f--data_science---4----------------------------
+🟢 [2024-10-27 23:39:44] [OK] Link OK: https://blog.dp6.com.br/o-que-uma-consultoria-de-marketing-analytics-e-data-science-faz-49f854b45c7c?source=collection_tagged----6e66739c733f--data_science---4----------------------------
+🟢 [2024-10-27 23:39:46] [OK] Link OK: https://blog.dp6.com.br/entendendo-sistemas-de-recomendação-o-que-são-e-para-quê-servem-e81a4e3e3ee0?source=collection_tagged----6e66739c733f--data_science---5----------------------------
+🟢 [2024-10-27 23:39:48] [OK] Link OK: https://blog.dp6.com.br/entendendo-sistemas-de-recomendação-o-que-são-e-para-quê-servem-e81a4e3e3ee0?source=collection_tagged----6e66739c733f--data_science---5----------------------------
+🟢 [2024-10-27 23:39:50] [OK] Link OK: https://blog.dp6.com.br/entendendo-sistemas-de-recomendação-o-que-são-e-para-quê-servem-e81a4e3e3ee0?source=collection_tagged----6e66739c733f--data_science---5----------------------------
+🟢 [2024-10-27 23:39:52] [OK] Link OK: https://blog.dp6.com.br/segurança-da-informação-especial-dia-internacional-da-proteção-de-dados-5c081e309484?source=collection_tagged----6e66739c733f--data_science---6----------------------------
+🟢 [2024-10-27 23:39:54] [OK] Link OK: https://blog.dp6.com.br/segurança-da-informação-especial-dia-internacional-da-proteção-de-dados-5c081e309484?source=collection_tagged----6e66739c733f--data_science---6----------------------------
+🟢 [2024-10-27 23:39:57] [OK] Link OK: https://blog.dp6.com.br/segurança-da-informação-especial-dia-internacional-da-proteção-de-dados-5c081e309484?source=collection_tagged----6e66739c733f--data_science---6----------------------------
+🟢 [2024-10-27 23:39:59] [OK] Link OK: https://blog.dp6.com.br/está-no-ar-o-podcast-dp6-e-desta-vez-temos-3-episódios-especiais-9bb6340a6cde?source=collection_tagged----6e66739c733f--data_science---7----------------------------
+🟢 [2024-10-27 23:40:01] [OK] Link OK: https://blog.dp6.com.br/está-no-ar-o-podcast-dp6-e-desta-vez-temos-3-episódios-especiais-9bb6340a6cde?source=collection_tagged----6e66739c733f--data_science---7----------------------------
+🟢 [2024-10-27 23:40:04] [OK] Link OK: https://blog.dp6.com.br/está-no-ar-o-podcast-dp6-e-desta-vez-temos-3-episódios-especiais-9bb6340a6cde?source=collection_tagged----6e66739c733f--data_science---7----------------------------
+🟢 [2024-10-27 23:40:06] [OK] Link OK: https://blog.dp6.com.br/destaques-do-marketing-data-science-on-air-2020-55f8444f300a?source=collection_tagged----6e66739c733f--data_science---8----------------------------
+🟢 [2024-10-27 23:40:08] [OK] Link OK: https://blog.dp6.com.br/destaques-do-marketing-data-science-on-air-2020-55f8444f300a?source=collection_tagged----6e66739c733f--data_science---8----------------------------
+🟢 [2024-10-27 23:40:10] [OK] Link OK: https://blog.dp6.com.br/destaques-do-marketing-data-science-on-air-2020-55f8444f300a?source=collection_tagged----6e66739c733f--data_science---8----------------------------
+🟢 [2024-10-27 23:40:12] [OK] Link OK: https://blog.dp6.com.br/vem-aí-o-dp6-marketing-data-science-on-air-2020-d0c53ffbdf63?source=collection_tagged----6e66739c733f--data_science---9----------------------------
+🟢 [2024-10-27 23:40:14] [OK] Link OK: https://blog.dp6.com.br/vem-aí-o-dp6-marketing-data-science-on-air-2020-d0c53ffbdf63?source=collection_tagged----6e66739c733f--data_science---9----------------------------
+🟢 [2024-10-27 23:40:16] [OK] Link OK: https://blog.dp6.com.br/vem-aí-o-dp6-marketing-data-science-on-air-2020-d0c53ffbdf63?source=collection_tagged----6e66739c733f--data_science---9----------------------------
+🟢 [2024-10-27 23:40:18] [OK] Link OK: https://blog.dp6.com.br/tagged/pressinquiries@medium.com?source=collection_tagged---collection_sidebar-6e66739c733f--data_science-------------------------------
+[2024-10-27 23:40:18] 🔎 Página atual: https://blog.dp6.com.br/tagged/data-visualization?source=collection_about----6e66739c733f---------------------------------
+==================================================
+🟢 [2024-10-27 23:40:20] [OK] Acessando: https://blog.dp6.com.br/tagged/data-visualization?source=collection_about----6e66739c733f---------------------------------
+🟢 [2024-10-27 23:40:23] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:40:25] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:40:27] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:40:29] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:40:31] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:40:34] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:40:36] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:40:39] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:40:41] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--data_visualization-------------------------------
+🟢 [2024-10-27 23:40:43] [OK] Link OK: https://blog.dp6.com.br/data-studio-três-importantes-atualizações-da-ferramenta-no-último-semestre-17d9a8fbf2af?source=collection_tagged----6e66739c733f--data_visualization---0----------------------------
+🟢 [2024-10-27 23:40:45] [OK] Link OK: https://blog.dp6.com.br/data-studio-três-importantes-atualizações-da-ferramenta-no-último-semestre-17d9a8fbf2af?source=collection_tagged----6e66739c733f--data_visualization---0----------------------------
+🟢 [2024-10-27 23:40:47] [OK] Link OK: https://blog.dp6.com.br/data-studio-três-importantes-atualizações-da-ferramenta-no-último-semestre-17d9a8fbf2af?source=collection_tagged----6e66739c733f--data_visualization---0----------------------------
+🟢 [2024-10-27 23:40:49] [OK] Link OK: https://blog.dp6.com.br/como-escolher-a-melhor-ferramenta-para-visualização-de-dados-483a688443e6?source=collection_tagged----6e66739c733f--data_visualization---1----------------------------
+🟢 [2024-10-27 23:40:52] [OK] Link OK: https://blog.dp6.com.br/como-escolher-a-melhor-ferramenta-para-visualização-de-dados-483a688443e6?source=collection_tagged----6e66739c733f--data_visualization---1----------------------------
+🟢 [2024-10-27 23:40:54] [OK] Link OK: https://blog.dp6.com.br/como-escolher-a-melhor-ferramenta-para-visualização-de-dados-483a688443e6?source=collection_tagged----6e66739c733f--data_visualization---1----------------------------
+🟢 [2024-10-27 23:40:56] [OK] Link OK: https://blog.dp6.com.br/guia-de-estatística-correlação-parte-i-b57b7c792b94?source=collection_tagged----6e66739c733f--data_visualization---2----------------------------
+🟢 [2024-10-27 23:40:58] [OK] Link OK: https://blog.dp6.com.br/guia-de-estatística-correlação-parte-i-b57b7c792b94?source=collection_tagged----6e66739c733f--data_visualization---2----------------------------
+🟢 [2024-10-27 23:41:00] [OK] Link OK: https://blog.dp6.com.br/guia-de-estatística-correlação-parte-i-b57b7c792b94?source=collection_tagged----6e66739c733f--data_visualization---2----------------------------
+🟢 [2024-10-27 23:41:02] [OK] Link OK: https://blog.dp6.com.br/sala-de-performance-parte-2-cd1dfe7c2226?source=collection_tagged----6e66739c733f--data_visualization---3----------------------------
+🟢 [2024-10-27 23:41:04] [OK] Link OK: https://blog.dp6.com.br/sala-de-performance-parte-2-cd1dfe7c2226?source=collection_tagged----6e66739c733f--data_visualization---3----------------------------
+🟢 [2024-10-27 23:41:07] [OK] Link OK: https://blog.dp6.com.br/sala-de-performance-parte-2-cd1dfe7c2226?source=collection_tagged----6e66739c733f--data_visualization---3----------------------------
+🟢 [2024-10-27 23:41:09] [OK] Link OK: https://blog.dp6.com.br/criação-de-dashboard-no-tableau-com-dados-de-adobe-uma-possível-solução-2eedb1454610?source=collection_tagged----6e66739c733f--data_visualization---4----------------------------
+🟢 [2024-10-27 23:41:11] [OK] Link OK: https://blog.dp6.com.br/criação-de-dashboard-no-tableau-com-dados-de-adobe-uma-possível-solução-2eedb1454610?source=collection_tagged----6e66739c733f--data_visualization---4----------------------------
+🟢 [2024-10-27 23:41:13] [OK] Link OK: https://blog.dp6.com.br/criação-de-dashboard-no-tableau-com-dados-de-adobe-uma-possível-solução-2eedb1454610?source=collection_tagged----6e66739c733f--data_visualization---4----------------------------
+🟢 [2024-10-27 23:41:16] [OK] Link OK: https://blog.dp6.com.br/guia-de-gráficos-avançados-dataviz-intermediate-3-de-4-2c29fd0e7bc6?source=collection_tagged----6e66739c733f--data_visualization---5----------------------------
+🟢 [2024-10-27 23:41:18] [OK] Link OK: https://blog.dp6.com.br/guia-de-gráficos-avançados-dataviz-intermediate-3-de-4-2c29fd0e7bc6?source=collection_tagged----6e66739c733f--data_visualization---5----------------------------
+🟢 [2024-10-27 23:41:20] [OK] Link OK: https://blog.dp6.com.br/guia-de-gráficos-avançados-dataviz-intermediate-3-de-4-2c29fd0e7bc6?source=collection_tagged----6e66739c733f--data_visualization---5----------------------------
+🟢 [2024-10-27 23:41:22] [OK] Link OK: https://blog.dp6.com.br/workspace-visualização-de-dados-otimizada-na-adobe-28ce0eeb2231?source=collection_tagged----6e66739c733f--data_visualization---6----------------------------
+🟢 [2024-10-27 23:41:24] [OK] Link OK: https://blog.dp6.com.br/workspace-visualização-de-dados-otimizada-na-adobe-28ce0eeb2231?source=collection_tagged----6e66739c733f--data_visualization---6----------------------------
+🟢 [2024-10-27 23:41:26] [OK] Link OK: https://blog.dp6.com.br/workspace-visualização-de-dados-otimizada-na-adobe-28ce0eeb2231?source=collection_tagged----6e66739c733f--data_visualization---6----------------------------
+🟢 [2024-10-27 23:41:28] [OK] Link OK: https://blog.dp6.com.br/como-criar-dashboards-eficientes-dataviz-intermediate-2-de-4-f073b96f0d89?source=collection_tagged----6e66739c733f--data_visualization---7----------------------------
+🟢 [2024-10-27 23:41:30] [OK] Link OK: https://blog.dp6.com.br/como-criar-dashboards-eficientes-dataviz-intermediate-2-de-4-f073b96f0d89?source=collection_tagged----6e66739c733f--data_visualization---7----------------------------
+🟢 [2024-10-27 23:41:32] [OK] Link OK: https://blog.dp6.com.br/como-criar-dashboards-eficientes-dataviz-intermediate-2-de-4-f073b96f0d89?source=collection_tagged----6e66739c733f--data_visualization---7----------------------------
+🟢 [2024-10-27 23:41:34] [OK] Link OK: https://blog.dp6.com.br/por-que-dataviz-é-essencial-e-como-provar-pro-seu-chefe-dataviz-intermediate-1-de-4-b3ce7e8b9917?source=collection_tagged----6e66739c733f--data_visualization---8----------------------------
+🟢 [2024-10-27 23:41:36] [OK] Link OK: https://blog.dp6.com.br/por-que-dataviz-é-essencial-e-como-provar-pro-seu-chefe-dataviz-intermediate-1-de-4-b3ce7e8b9917?source=collection_tagged----6e66739c733f--data_visualization---8----------------------------
+🟢 [2024-10-27 23:41:38] [OK] Link OK: https://blog.dp6.com.br/por-que-dataviz-é-essencial-e-como-provar-pro-seu-chefe-dataviz-intermediate-1-de-4-b3ce7e8b9917?source=collection_tagged----6e66739c733f--data_visualization---8----------------------------
+🟢 [2024-10-27 23:41:41] [OK] Link OK: https://blog.dp6.com.br/google-data-studio-a-nova-ferramenta-de-visualização-de-dados-7233b50588a0?source=collection_tagged----6e66739c733f--data_visualization---9----------------------------
+🟢 [2024-10-27 23:41:43] [OK] Link OK: https://blog.dp6.com.br/google-data-studio-a-nova-ferramenta-de-visualização-de-dados-7233b50588a0?source=collection_tagged----6e66739c733f--data_visualization---9----------------------------
+🟢 [2024-10-27 23:41:45] [OK] Link OK: https://blog.dp6.com.br/google-data-studio-a-nova-ferramenta-de-visualização-de-dados-7233b50588a0?source=collection_tagged----6e66739c733f--data_visualization---9----------------------------
+🟢 [2024-10-27 23:41:47] [OK] Link OK: https://blog.dp6.com.br/tagged/pressinquiries@medium.com?source=collection_tagged---collection_sidebar-6e66739c733f--data_visualization-------------------------------
+[2024-10-27 23:41:47] 🔎 Página atual: https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_about---collection_sidebar-6e66739c733f---------------------------------
+==================================================
+❌ [2024-10-27 23:41:49] [Erro] Problema na página https://blog.dp6.com.br/pressinquiries@medium.com?source=collection_about---collection_sidebar-6e66739c733f--------------------------------- - Código: 404
+[2024-10-27 23:41:49] 🔎 Página atual: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+==================================================
+🟢 [2024-10-27 23:41:51] [OK] Acessando: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+[2024-10-27 23:41:51] 🔎 Página atual: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+==================================================
+🟢 [2024-10-27 23:41:55] [OK] Acessando: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+[2024-10-27 23:41:55] 🔎 Página atual: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+==================================================
+🟢 [2024-10-27 23:41:57] [OK] Acessando: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+[2024-10-27 23:41:57] 🔎 Página atual: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+==================================================
+🟢 [2024-10-27 23:41:59] [OK] Acessando: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:42:01] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:42:03] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:42:05] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:42:07] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:42:09] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_tagged----6e66739c733f--digital_marketing---0----------------------------
+🟢 [2024-10-27 23:42:11] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_tagged----6e66739c733f--digital_marketing---0----------------------------
+🟢 [2024-10-27 23:42:13] [OK] Link OK: https://blog.dp6.com.br/evento-dp6-marketing-data-science-2024-solicite-o-seu-convite-5c9780d4ef57?source=collection_tagged----6e66739c733f--digital_marketing---0----------------------------
+🟢 [2024-10-27 23:42:15] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_tagged----6e66739c733f--digital_marketing---1----------------------------
+🟢 [2024-10-27 23:42:17] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_tagged----6e66739c733f--digital_marketing---1----------------------------
+🟢 [2024-10-27 23:42:20] [OK] Link OK: https://blog.dp6.com.br/whats-new-in-google-analytics-4-after-ga-universal-sunset-c12abee17a29?source=collection_tagged----6e66739c733f--digital_marketing---1----------------------------
+🟢 [2024-10-27 23:42:22] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_tagged----6e66739c733f--digital_marketing---2----------------------------
+🟢 [2024-10-27 23:42:25] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_tagged----6e66739c733f--digital_marketing---2----------------------------
+🟢 [2024-10-27 23:42:27] [OK] Link OK: https://blog.dp6.com.br/como-utilizar-os-relatórios-do-google-ads-para-maximizar-o-desempenho-das-campanhas-30fa87913b9a?source=collection_tagged----6e66739c733f--digital_marketing---2----------------------------
+🟢 [2024-10-27 23:42:29] [OK] Link OK: https://blog.dp6.com.br/google-marketing-live-2024-c6fc266bf2f5?source=collection_tagged----6e66739c733f--digital_marketing---3----------------------------
+🟢 [2024-10-27 23:42:31] [OK] Link OK: https://blog.dp6.com.br/google-marketing-live-2024-c6fc266bf2f5?source=collection_tagged----6e66739c733f--digital_marketing---3----------------------------
+🟢 [2024-10-27 23:42:34] [OK] Link OK: https://blog.dp6.com.br/google-marketing-live-2024-c6fc266bf2f5?source=collection_tagged----6e66739c733f--digital_marketing---3----------------------------
+🟢 [2024-10-27 23:42:36] [OK] Link OK: https://blog.dp6.com.br/agile-marketing-revolucionando-a-estratégia-de-marketing-digital-na-era-da-informação-d9fd61fe80f4?source=collection_tagged----6e66739c733f--digital_marketing---4----------------------------
+🟢 [2024-10-27 23:42:38] [OK] Link OK: https://blog.dp6.com.br/agile-marketing-revolucionando-a-estratégia-de-marketing-digital-na-era-da-informação-d9fd61fe80f4?source=collection_tagged----6e66739c733f--digital_marketing---4----------------------------
+🟢 [2024-10-27 23:42:40] [OK] Link OK: https://blog.dp6.com.br/agile-marketing-revolucionando-a-estratégia-de-marketing-digital-na-era-da-informação-d9fd61fe80f4?source=collection_tagged----6e66739c733f--digital_marketing---4----------------------------
+🟢 [2024-10-27 23:42:42] [OK] Link OK: https://blog.dp6.com.br/tracking-protection-recurso-do-chrome-e-o-fim-dos-cookies-2c256ce3f776?source=collection_tagged----6e66739c733f--digital_marketing---5----------------------------
+🟢 [2024-10-27 23:42:44] [OK] Link OK: https://blog.dp6.com.br/tracking-protection-recurso-do-chrome-e-o-fim-dos-cookies-2c256ce3f776?source=collection_tagged----6e66739c733f--digital_marketing---5----------------------------
+🟢 [2024-10-27 23:42:46] [OK] Link OK: https://blog.dp6.com.br/tracking-protection-recurso-do-chrome-e-o-fim-dos-cookies-2c256ce3f776?source=collection_tagged----6e66739c733f--digital_marketing---5----------------------------
+🟢 [2024-10-27 23:42:48] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--digital_marketing---6----------------------------
+🟢 [2024-10-27 23:42:51] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--digital_marketing---6----------------------------
+🟢 [2024-10-27 23:42:53] [OK] Link OK: https://blog.dp6.com.br/o-que-é-uma-data-clean-room-e-qual-impacto-ela-tem-nos-negócios-10a584084c6c?source=collection_tagged----6e66739c733f--digital_marketing---6----------------------------
+🟢 [2024-10-27 23:42:55] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--digital_marketing---7----------------------------
+🟢 [2024-10-27 23:42:57] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--digital_marketing---7----------------------------
+🟢 [2024-10-27 23:42:59] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-de-2022-ae39496c39bf?source=collection_tagged----6e66739c733f--digital_marketing---7----------------------------
+🟢 [2024-10-27 23:43:02] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-do-blog-dp6-em-2021-b808823e489b?source=collection_tagged----6e66739c733f--digital_marketing---8----------------------------
+🟢 [2024-10-27 23:43:04] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-do-blog-dp6-em-2021-b808823e489b?source=collection_tagged----6e66739c733f--digital_marketing---8----------------------------
+🟢 [2024-10-27 23:43:06] [OK] Link OK: https://blog.dp6.com.br/top-5-posts-mais-lidos-do-blog-dp6-em-2021-b808823e489b?source=collection_tagged----6e66739c733f--digital_marketing---8----------------------------
+🟢 [2024-10-27 23:43:08] [OK] Link OK: https://blog.dp6.com.br/modelo-peso-os-benefícios-de-uma-estratégia-de-mídia-unificada-3a8fa90975f2?source=collection_tagged----6e66739c733f--digital_marketing---9----------------------------
+🟢 [2024-10-27 23:43:11] [OK] Link OK: https://blog.dp6.com.br/modelo-peso-os-benefícios-de-uma-estratégia-de-mídia-unificada-3a8fa90975f2?source=collection_tagged----6e66739c733f--digital_marketing---9----------------------------
+🟢 [2024-10-27 23:43:13] [OK] Link OK: https://blog.dp6.com.br/modelo-peso-os-benefícios-de-uma-estratégia-de-mídia-unificada-3a8fa90975f2?source=collection_tagged----6e66739c733f--digital_marketing---9----------------------------
+🟢 [2024-10-27 23:43:15] [OK] Link OK: https://blog.dp6.com.br/tagged/pressinquiries@medium.com?source=collection_tagged---collection_sidebar-6e66739c733f--digital_marketing-------------------------------
+[2024-10-27 23:43:15] 🔎 Página atual: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+==================================================
+🟢 [2024-10-27 23:43:17] [OK] Acessando: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:43:20] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:43:21] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:43:24] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:43:26] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:43:28] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:43:30] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:43:32] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:43:34] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:43:37] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+🟢 [2024-10-27 23:43:39] [OK] Link OK: https://blog.dp6.com.br/é-o-fim-do-google-optimize-e-agora-ede6fdcfd01d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---0----------------------------
+🟢 [2024-10-27 23:43:41] [OK] Link OK: https://blog.dp6.com.br/é-o-fim-do-google-optimize-e-agora-ede6fdcfd01d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---0----------------------------
+🟢 [2024-10-27 23:43:43] [OK] Link OK: https://blog.dp6.com.br/é-o-fim-do-google-optimize-e-agora-ede6fdcfd01d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---0----------------------------
+🟢 [2024-10-27 23:43:45] [OK] Link OK: https://blog.dp6.com.br/fim-do-optimize-e-a-migração-para-outras-ferramentas-as-maiores-dúvidas-8deda662e8ae?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---1----------------------------
+🟢 [2024-10-27 23:43:48] [OK] Link OK: https://blog.dp6.com.br/fim-do-optimize-e-a-migração-para-outras-ferramentas-as-maiores-dúvidas-8deda662e8ae?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---1----------------------------
+🟢 [2024-10-27 23:43:50] [OK] Link OK: https://blog.dp6.com.br/fim-do-optimize-e-a-migração-para-outras-ferramentas-as-maiores-dúvidas-8deda662e8ae?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---1----------------------------
+🟢 [2024-10-27 23:43:52] [OK] Link OK: https://blog.dp6.com.br/implementação-de-testes-como-prevenir-e-solucionar-problemas-62ed6b3af8f4?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---2----------------------------
+🟢 [2024-10-27 23:43:54] [OK] Link OK: https://blog.dp6.com.br/implementação-de-testes-como-prevenir-e-solucionar-problemas-62ed6b3af8f4?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---2----------------------------
+🟢 [2024-10-27 23:43:56] [OK] Link OK: https://blog.dp6.com.br/implementação-de-testes-como-prevenir-e-solucionar-problemas-62ed6b3af8f4?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---2----------------------------
+🟢 [2024-10-27 23:43:58] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-como-integrar-minha-ferramenta-de-cro-com-o-google-analytics-f8c2ccd49b30?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---3----------------------------
+🟢 [2024-10-27 23:44:01] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-como-integrar-minha-ferramenta-de-cro-com-o-google-analytics-f8c2ccd49b30?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---3----------------------------
+🟢 [2024-10-27 23:44:03] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-como-integrar-minha-ferramenta-de-cro-com-o-google-analytics-f8c2ccd49b30?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---3----------------------------
+🟢 [2024-10-27 23:44:05] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-passos-essenciais-para-implementação-5ccf0c9672b5?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---4----------------------------
+🟢 [2024-10-27 23:44:07] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-passos-essenciais-para-implementação-5ccf0c9672b5?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---4----------------------------
+🟢 [2024-10-27 23:44:09] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-passos-essenciais-para-implementação-5ccf0c9672b5?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---4----------------------------
+🟢 [2024-10-27 23:44:11] [OK] Link OK: https://blog.dp6.com.br/maximizando-resultados-quando-utilizar-uma-ferramenta-de-experimentação-d4867c901c3a?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---5----------------------------
+🟢 [2024-10-27 23:44:13] [OK] Link OK: https://blog.dp6.com.br/maximizando-resultados-quando-utilizar-uma-ferramenta-de-experimentação-d4867c901c3a?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---5----------------------------
+🟢 [2024-10-27 23:44:15] [OK] Link OK: https://blog.dp6.com.br/maximizando-resultados-quando-utilizar-uma-ferramenta-de-experimentação-d4867c901c3a?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---5----------------------------
+🟢 [2024-10-27 23:44:17] [OK] Link OK: https://blog.dp6.com.br/custo-de-oportunidade-o-valor-intrínseco-na-cultura-de-teste-90f1f682ba8d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---6----------------------------
+🟢 [2024-10-27 23:44:19] [OK] Link OK: https://blog.dp6.com.br/custo-de-oportunidade-o-valor-intrínseco-na-cultura-de-teste-90f1f682ba8d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---6----------------------------
+🟢 [2024-10-27 23:44:20] [OK] Link OK: https://blog.dp6.com.br/custo-de-oportunidade-o-valor-intrínseco-na-cultura-de-teste-90f1f682ba8d?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---6----------------------------
+🟢 [2024-10-27 23:44:22] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-qual-o-melhor-tipo-de-teste-para-a-necessidade-do-seu-negócio-72e4d11603a8?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---7----------------------------
+🟢 [2024-10-27 23:44:24] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-qual-o-melhor-tipo-de-teste-para-a-necessidade-do-seu-negócio-72e4d11603a8?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---7----------------------------
+🟢 [2024-10-27 23:44:27] [OK] Link OK: https://blog.dp6.com.br/testes-e-experimentação-qual-o-melhor-tipo-de-teste-para-a-necessidade-do-seu-negócio-72e4d11603a8?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---7----------------------------
+🟢 [2024-10-27 23:44:29] [OK] Link OK: https://blog.dp6.com.br/times-de-experimentação-qual-a-melhor-estrutura-para-sua-empresa-e6b0995f1185?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---8----------------------------
+🟢 [2024-10-27 23:44:31] [OK] Link OK: https://blog.dp6.com.br/times-de-experimentação-qual-a-melhor-estrutura-para-sua-empresa-e6b0995f1185?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---8----------------------------
+🟢 [2024-10-27 23:44:33] [OK] Link OK: https://blog.dp6.com.br/times-de-experimentação-qual-a-melhor-estrutura-para-sua-empresa-e6b0995f1185?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---8----------------------------
+🟢 [2024-10-27 23:44:35] [OK] Link OK: https://blog.dp6.com.br/a-importância-da-cultura-de-testes-na-otimização-da-jornada-do-consumidor-ba2621ca8e60?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---9----------------------------
+🟢 [2024-10-27 23:44:37] [OK] Link OK: https://blog.dp6.com.br/a-importância-da-cultura-de-testes-na-otimização-da-jornada-do-consumidor-ba2621ca8e60?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---9----------------------------
+🟢 [2024-10-27 23:44:39] [OK] Link OK: https://blog.dp6.com.br/a-importância-da-cultura-de-testes-na-otimização-da-jornada-do-consumidor-ba2621ca8e60?source=collection_tagged----6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o---9----------------------------
+🟢 [2024-10-27 23:44:41] [OK] Link OK: https://blog.dp6.com.br/tagged/pressinquiries@medium.com?source=collection_tagged---collection_sidebar-6e66739c733f--testes_e_experimenta%C3%A7%C3%A3o-------------------------------
+[2024-10-27 23:44:41] 🔎 Página atual: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+==================================================
+🟢 [2024-10-27 23:44:43] [OK] Acessando: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--digital_marketing-------------------------------
+🟢 [2024-10-27 23:44:46] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:44:48] [OK] Link OK: https://blog.dp6.com.br/followers?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:44:50] [OK] Link OK: https://blog.dp6.com.br/?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:44:52] [OK] Link OK: https://blog.dp6.com.br/about?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:44:54] [OK] Link OK: https://blog.dp6.com.br/tagged/digital-marketing?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:44:56] [OK] Link OK: https://blog.dp6.com.br/tagged/testes-e-experimenta%C3%A7%C3%A3o?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:44:58] [OK] Link OK: https://blog.dp6.com.br/tagged/data-engineer?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:45:00] [OK] Link OK: https://blog.dp6.com.br/tagged/data-science?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:45:02] [OK] Link OK: https://blog.dp6.com.br/tagged/data-visualization?source=collection_tagged----6e66739c733f--data_engineer-------------------------------
+🟢 [2024-10-27 23:45:04] [OK] Link OK: https://blog.dp6.com.br/docker-e-engenharia-de-dados-988d8f14de95?source=collection_tagged----6e66739c733f--data_engineer---0----------------------------
+🟢 [2024-10-27 23:45:06] [OK] Link OK: https://blog.dp6.com.br/docker-e-engenharia-de-dados-988d8f14de95?source=collection_tagged----6e66739c733f--data_engineer---0----------------------------
+🟢 [2024-10-27 23:45:08] [OK] Link OK: https://blog.dp6.com.br/docker-e-engenharia-de-dados-988d8f14de95?source=collection_tagged----6e66739c733f--data_engineer---0----------------------------
+🟢 [2024-10-27 23:45:10] [OK] Link OK: https://blog.dp6.com.br/já-imaginou-o-marketing-digital-sem-séries-temporais-f748c1392dea?source=collection_tagged----6e66739c733f--data_engineer---1----------------------------
+🟢 [2024-10-27 23:45:12] [OK] Link OK: https://blog.dp6.com.br/já-imaginou-o-marketing-digital-sem-séries-temporais-f748c1392dea?source=collection_tagged----6e66739c733f--data_engineer---1----------------------------
+🟢 [2024-10-27 23:45:14] [OK] Link OK: https://blog.dp6.com.br/já-imaginou-o-marketing-digital-sem-séries-temporais-f748c1392dea?source=collection_tagged----6e66739c733f--data_engineer---1----------------------------
+🟢 [2024-10-27 23:45:16] [OK] Link OK: https://blog.dp6.com.br/regex-o-guia-essencial-das-expressões-regulares-2fc1df38a481?source=collection_tagged----6e66739c733f--data_engineer---2----------------------------
+🟢 [2024-10-27 23:45:19] [OK] Link OK: https://blog.dp6.com.br/regex-o-guia-essencial-das-expressões-regulares-2fc1df38a481?source=collection_tagged----6e66739c733f--data_engineer---2----------------------------
+🟢 [2024-10-27 23:45:21] [OK] Link OK: https://blog.dp6.com.br/regex-o-guia-essencial-das-expressões-regulares-2fc1df38a481?source=collection_tagged----6e66739c733f--data_engineer---2----------------------------
+🟢 [2024-10-27 23:45:23] [OK] Link OK: https://blog.dp6.com.br/performance-web-e-ux-9250ee9c1057?source=collection_tagged----6e66739c733f--data_engineer---3----------------------------
+🟢 [2024-10-27 23:45:25] [OK] Link OK: https://blog.dp6.com.br/performance-web-e-ux-9250ee9c1057?source=collection_tagged----6e66739c733f--data_engineer---3----------------------------
+🟢 [2024-10-27 23:45:27] [OK] Link OK: https://blog.dp6.com.br/performance-web-e-ux-9250ee9c1057?source=collection_tagged----6e66739c733f--data_engineer---3----------------------------
+🟢 [2024-10-27 23:45:29] [OK] Link OK: https://blog.dp6.com.br/tudo-o-que-você-precisa-saber-sobre-a-profissão-de-engenharia-de-dados-data-engineer-2c0e73c333cb?source=collection_tagged----6e66739c733f--data_engineer---4----------------------------
+🟢 [2024-10-27 23:45:31] [OK] Link OK: https://blog.dp6.com.br/tudo-o-que-você-precisa-saber-sobre-a-profissão-de-engenharia-de-dados-data-engineer-2c0e73c333cb?source=collection_tagged----6e66739c733f--data_engineer---4----------------------------
+🟢 [2024-10-27 23:45:33] [OK] Link OK: https://blog.dp6.com.br/tudo-o-que-você-precisa-saber-sobre-a-profissão-de-engenharia-de-dados-data-engineer-2c0e73c333cb?source=collection_tagged----6e66739c733f--data_engineer---4----------------------------
+🟢 [2024-10-27 23:45:35] [OK] Link OK: https://blog.dp6.com.br/valide-google-analytics-como-um-expert-com-o-analytics-watcher-5e0def916543?source=collection_tagged----6e66739c733f--data_engineer---5----------------------------
+🟢 [2024-10-27 23:45:37] [OK] Link OK: https://blog.dp6.com.br/valide-google-analytics-como-um-expert-com-o-analytics-watcher-5e0def916543?source=collection_tagged----6e66739c733f--data_engineer---5----------------------------
+🟢 [2024-10-27 23:45:39] [OK] Link OK: https://blog.dp6.com.br/valide-google-analytics-como-um-expert-com-o-analytics-watcher-5e0def916543?source=collection_tagged----6e66739c733f--data_engineer---5----------------------------
+🟢 [2024-10-27 23:45:41] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-marketing-data-lake-data-warehouse-data-lakehouse-o-que-preciso-saber-71d5fa2dcc5c?source=collection_tagged----6e66739c733f--data_engineer---6----------------------------
+🟢 [2024-10-27 23:45:43] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-marketing-data-lake-data-warehouse-data-lakehouse-o-que-preciso-saber-71d5fa2dcc5c?source=collection_tagged----6e66739c733f--data_engineer---6----------------------------
+🟢 [2024-10-27 23:45:45] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-marketing-data-lake-data-warehouse-data-lakehouse-o-que-preciso-saber-71d5fa2dcc5c?source=collection_tagged----6e66739c733f--data_engineer---6----------------------------
+🟢 [2024-10-27 23:45:47] [OK] Link OK: https://blog.dp6.com.br/gestão-e-integração-de-dados-seu-negócio-sabe-o-que-é-necessário-para-ter-uma-visão-unificada-f0e458814c1e?source=collection_tagged----6e66739c733f--data_engineer---7----------------------------
+🟢 [2024-10-27 23:45:49] [OK] Link OK: https://blog.dp6.com.br/gestão-e-integração-de-dados-seu-negócio-sabe-o-que-é-necessário-para-ter-uma-visão-unificada-f0e458814c1e?source=collection_tagged----6e66739c733f--data_engineer---7----------------------------
+🟢 [2024-10-27 23:45:50] [OK] Link OK: https://blog.dp6.com.br/gestão-e-integração-de-dados-seu-negócio-sabe-o-que-é-necessário-para-ter-uma-visão-unificada-f0e458814c1e?source=collection_tagged----6e66739c733f--data_engineer---7----------------------------
+🟢 [2024-10-27 23:45:52] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-martech-dataquality-série-engenharia-de-dados-parte-ii-1bfa15f26a70?source=collection_tagged----6e66739c733f--data_engineer---8----------------------------
+🟢 [2024-10-27 23:45:54] [OK] Link OK: https://blog.dp6.com.br/engenharia-de-dados-para-martech-dataquality-série-engenharia-de-dados-parte-ii-1bfa15f26a70?source=collection_tagged----6e66739c733f--data_engineer---8----------------------------
