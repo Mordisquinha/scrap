@@ -1,13 +1,14 @@
 # app.py
 
 import streamlit as st
-from main import scrape_site
+from main import scrape_site, scrape_sitemap_only
 import zipfile
 import os
 
 def main():
     st.title("Scraper de Links Quebrados")
     domain_to_scrape = st.text_input("Digite a URL do domínio que deseja verificar:")
+    only_sitemap = st.checkbox("Apenas Sitemap")  # Checkbox para a opção de apenas sitemap
     start_button = st.button("Iniciar Scraping")
 
     # Inicializando variáveis de logs
@@ -50,24 +51,49 @@ def main():
 
     # Executa o scraping ao clicar no botão
     if start_button and domain_to_scrape:
-        log_directory = scrape_site(
-            domain_to_scrape, 
-            log_update_callback=update_log, 
-            broken_links_callback=update_broken_links
-        )
+        if only_sitemap:
+            log_directory = scrape_sitemap_only(
+                domain_to_scrape, 
+                log_update_callback=update_log, 
+                broken_links_callback=update_broken_links
+            )
 
-        st.success("Scraping concluído!")
+            st.success("Scraping concluído!")
         
-        # Compacta o diretório de logs para download
-        zip_path = f"{log_directory}.zip"
-        with zipfile.ZipFile(zip_path, 'w') as log_zip:
-            for root, _, files in os.walk(log_directory):
-                for file in files:
-                    log_zip.write(os.path.join(root, file),
-                                  arcname=os.path.relpath(os.path.join(root, file), log_directory))
+            # Compacta o diretório de logs para download
+            two_levels_up = os.path.dirname(os.path.dirname(log_directory))
+            zip_path = os.path.join(two_levels_up, f"{os.path.basename(two_levels_up)}.zip")
+
+            with zipfile.ZipFile(zip_path, 'w') as log_zip:
+                for root, _, files in os.walk(two_levels_up):
+                    for file in files:
+                        log_zip.write(
+                            os.path.join(root, file),
+                            arcname=os.path.relpath(os.path.join(root, file), two_levels_up)
+                        )
+        else:
+            log_directory = scrape_site(
+                domain_to_scrape, 
+                log_update_callback=update_log, 
+                broken_links_callback=update_broken_links
+            )
+
+            st.success("Scraping concluído!")
         
+            # Compacta o diretório de logs para download
+            one_levels_up = os.path.dirname(log_directory)
+            zip_path = f"{os.path.basename(one_levels_up)}.zip"
+
+            with zipfile.ZipFile(zip_path, 'w') as log_zip:
+                for root, _, files in os.walk(one_levels_up):
+                    for file in files:
+                        log_zip.write(
+                            os.path.join(root, file),
+                            arcname=os.path.relpath(os.path.join(root, file), one_levels_up)
+                        )
+
         st.download_button("Baixar logs", data=open(zip_path, "rb"), file_name=os.path.basename(zip_path))
-
+        st.balloons()
 
 if __name__ == "__main__":
     main()
